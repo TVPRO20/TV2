@@ -1,547 +1,496 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="directvsports2" tvg-logo="" group-title="TEST",directvsports2
-http://zufreelist.net:8080/listam3ufreliz/frelizt/1
-#EXTINF:-1 tvg-id="" tvg-name="directv" tvg-logo="" group-title="TEST",directv
-http://zufreelist.net:8080/listam3ufreliz/frelizt/2
-#EXTINF:-1 tvg-id="" tvg-name="ESPN2" tvg-logo="" group-title="TEST",ESPN2
-http://zufreelist.net:8080/listam3ufreliz/frelizt/3
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT" tvg-logo="" group-title="TEST",BEIN SPORT
-http://zufreelist.net:8080/listam3ufreliz/frelizt/4
-#EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="" group-title="TEST",FUTV
-http://zufreelist.net:8080/listam3ufreliz/frelizt/5
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="LATINOS SD ",A&E
-http://zufreelist.net:8080/listam3ufreliz/frelizt/54
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="LATINOS SD ",AMC
-http://zufreelist.net:8080/listam3ufreliz/frelizt/55
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="LATINOS SD ",AXN
-http://zufreelist.net:8080/listam3ufreliz/frelizt/56
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="LATINOS SD ",Animal Planet
-http://zufreelist.net:8080/listam3ufreliz/frelizt/57
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="" group-title="LATINOS SD ",Antena 3
-http://zufreelist.net:8080/listam3ufreliz/frelizt/58
-#EXTINF:-1 tvg-id="" tvg-name="Atres Series" tvg-logo="" group-title="LATINOS SD ",Atres Series
-http://zufreelist.net:8080/listam3ufreliz/frelizt/59
-#EXTINF:-1 tvg-id="" tvg-name="Azcorazon" tvg-logo="" group-title="LATINOS SD ",Azcorazon
-http://zufreelist.net:8080/listam3ufreliz/frelizt/60
-#EXTINF:-1 tvg-id="" tvg-name="Azmundo" tvg-logo="" group-title="LATINOS SD ",Azmundo
-http://zufreelist.net:8080/listam3ufreliz/frelizt/61
-#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="" group-title="LATINOS SD ",BBC World
-http://zufreelist.net:8080/listam3ufreliz/frelizt/62
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="LATINOS SD ",Baby TV
-http://zufreelist.net:8080/listam3ufreliz/frelizt/63
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="LATINOS SD ",Boomerang
-http://zufreelist.net:8080/listam3ufreliz/frelizt/64
-#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="" group-title="LATINOS SD ",CLARO SPORTS
-http://zufreelist.net:8080/listam3ufreliz/frelizt/65
-#EXTINF:-1 tvg-id="" tvg-name="CONCERT CHANNEL" tvg-logo="" group-title="LATINOS SD ",CONCERT CHANNEL
-http://zufreelist.net:8080/listam3ufreliz/frelizt/66
-#EXTINF:-1 tvg-id="" tvg-name="Canal Claro" tvg-logo="" group-title="LATINOS SD ",Canal Claro
-http://zufreelist.net:8080/listam3ufreliz/frelizt/67
-#EXTINF:-1 tvg-id="" tvg-name="Canal del Congreso" tvg-logo="" group-title="LATINOS SD ",Canal del Congreso
-http://zufreelist.net:8080/listam3ufreliz/frelizt/68
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="LATINOS SD ",Cartoon Network
-http://zufreelist.net:8080/listam3ufreliz/frelizt/69
-#EXTINF:-1 tvg-id="" tvg-name="Cincomas" tvg-logo="" group-title="LATINOS SD ",Cincomas
-http://zufreelist.net:8080/listam3ufreliz/frelizt/70
-#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="" group-title="LATINOS SD ",Cine Latino
-http://zufreelist.net:8080/listam3ufreliz/frelizt/71
-#EXTINF:-1 tvg-id="" tvg-name="CineCanal" tvg-logo="" group-title="LATINOS SD ",CineCanal
-http://zufreelist.net:8080/listam3ufreliz/frelizt/72
-#EXTINF:-1 tvg-id="" tvg-name="CineMax" tvg-logo="" group-title="LATINOS SD ",CineMax
-http://zufreelist.net:8080/listam3ufreliz/frelizt/73
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Dinamita" tvg-logo="" group-title="LATINOS SD ",Cinema Dinamita
-http://zufreelist.net:8080/listam3ufreliz/frelizt/74
-#EXTINF:-1 tvg-id="" tvg-name="Claro Cinema" tvg-logo="" group-title="LATINOS SD ",Claro Cinema
-http://zufreelist.net:8080/listam3ufreliz/frelizt/75
-#EXTINF:-1 tvg-id="" tvg-name="Claro Musica" tvg-logo="" group-title="LATINOS SD ",Claro Musica
-http://zufreelist.net:8080/listam3ufreliz/frelizt/76
-#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="" group-title="LATINOS SD ",Concert Channel
-http://zufreelist.net:8080/listam3ufreliz/frelizt/77
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="LATINOS SD ",Discovery Channel
-http://zufreelist.net:8080/listam3ufreliz/frelizt/78
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="" group-title="LATINOS SD ",Discovery Civilization
-http://zufreelist.net:8080/listam3ufreliz/frelizt/79
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="" group-title="LATINOS SD ",Discovery Home & Health
-http://zufreelist.net:8080/listam3ufreliz/frelizt/80
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="LATINOS SD ",Discovery Kids
-http://zufreelist.net:8080/listam3ufreliz/frelizt/81
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="LATINOS SD ",Discovery Science
-http://zufreelist.net:8080/listam3ufreliz/frelizt/82
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="LATINOS SD ",Discovery Turbo
-http://zufreelist.net:8080/listam3ufreliz/frelizt/83
-#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="" group-title="LATINOS SD ",Disney
-http://zufreelist.net:8080/listam3ufreliz/frelizt/84
-#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="LATINOS SD ",Disney JR
-http://zufreelist.net:8080/listam3ufreliz/frelizt/85
-#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="LATINOS SD ",Disney XD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/86
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="LATINOS SD ",E!
-http://zufreelist.net:8080/listam3ufreliz/frelizt/87
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="LATINOS SD ",ESPN
-http://zufreelist.net:8080/listam3ufreliz/frelizt/88
-#EXTINF:-1 tvg-id="" tvg-name="ESPN  +" tvg-logo="" group-title="LATINOS SD ",ESPN  +
-http://zufreelist.net:8080/listam3ufreliz/frelizt/89
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="" group-title="LATINOS SD ",ESPN 3
-http://zufreelist.net:8080/listam3ufreliz/frelizt/90
-#EXTINF:-1 tvg-id="" tvg-name="ESPN2" tvg-logo="" group-title="LATINOS SD ",ESPN2
-http://zufreelist.net:8080/listam3ufreliz/frelizt/91
-#EXTINF:-1 tvg-id="" tvg-name="EURO Channel" tvg-logo="" group-title="LATINOS SD ",EURO Channel
-http://zufreelist.net:8080/listam3ufreliz/frelizt/92
-#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="" group-title="LATINOS SD ",EWTN
-http://zufreelist.net:8080/listam3ufreliz/frelizt/93
-#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="LATINOS SD ",El Gourmet
-http://zufreelist.net:8080/listam3ufreliz/frelizt/94
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="LATINOS SD ",FOX
-http://zufreelist.net:8080/listam3ufreliz/frelizt/95
-#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY" tvg-logo="" group-title="LATINOS SD ",FOX COMEDY
-http://zufreelist.net:8080/listam3ufreliz/frelizt/96
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" group-title="LATINOS SD ",FOX LIFE
-http://zufreelist.net:8080/listam3ufreliz/frelizt/97
-#EXTINF:-1 tvg-id="" tvg-name="FOX SERIES" tvg-logo="" group-title="LATINOS SD ",FOX SERIES
-http://zufreelist.net:8080/listam3ufreliz/frelizt/98
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2" tvg-logo="" group-title="LATINOS SD ",FOX Sports 2
-http://zufreelist.net:8080/listam3ufreliz/frelizt/99
-#EXTINF:-1 tvg-id="" tvg-name="FOX+ACT" tvg-logo="" group-title="LATINOS SD ",FOX+ACT
-http://zufreelist.net:8080/listam3ufreliz/frelizt/100
-#EXTINF:-1 tvg-id="" tvg-name="FOX+CLA" tvg-logo="" group-title="LATINOS SD ",FOX+CLA
-http://zufreelist.net:8080/listam3ufreliz/frelizt/101
-#EXTINF:-1 tvg-id="" tvg-name="FOX+FAM" tvg-logo="" group-title="LATINOS SD ",FOX+FAM
-http://zufreelist.net:8080/listam3ufreliz/frelizt/102
-#EXTINF:-1 tvg-id="" tvg-name="FOX+MOV" tvg-logo="" group-title="LATINOS SD ",FOX+MOV
-http://zufreelist.net:8080/listam3ufreliz/frelizt/103
-#EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="" group-title="LATINOS SD ",FUTV
-http://zufreelist.net:8080/listam3ufreliz/frelizt/104
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="LATINOS SD ",FX
-http://zufreelist.net:8080/listam3ufreliz/frelizt/105
-#EXTINF:-1 tvg-id="" tvg-name="FX Movies" tvg-logo="" group-title="LATINOS SD ",FX Movies
-http://zufreelist.net:8080/listam3ufreliz/frelizt/106
-#EXTINF:-1 tvg-id="" tvg-name="Fashion One" tvg-logo="" group-title="LATINOS SD ",Fashion One
-http://zufreelist.net:8080/listam3ufreliz/frelizt/107
-#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="" group-title="LATINOS SD ",Film & Arts
-http://zufreelist.net:8080/listam3ufreliz/frelizt/108
-#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="" group-title="LATINOS SD ",Fox News
-http://zufreelist.net:8080/listam3ufreliz/frelizt/109
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 3" tvg-logo="" group-title="LATINOS SD ",Fox Sport 3
-http://zufreelist.net:8080/listam3ufreliz/frelizt/110
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="" group-title="LATINOS SD ",Fox Sports
-http://zufreelist.net:8080/listam3ufreliz/frelizt/111
-#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="LATINOS SD ",Golden
-http://zufreelist.net:8080/listam3ufreliz/frelizt/112
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="" group-title="LATINOS SD ",Golf Channel
-http://zufreelist.net:8080/listam3ufreliz/frelizt/113
-#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="LATINOS SD ",H2
-http://zufreelist.net:8080/listam3ufreliz/frelizt/114
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="LATINOS SD ",HBO
-http://zufreelist.net:8080/listam3ufreliz/frelizt/115
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="LATINOS SD ",HBO Family
-http://zufreelist.net:8080/listam3ufreliz/frelizt/116
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="" group-title="LATINOS SD ",HBO Plus
-http://zufreelist.net:8080/listam3ufreliz/frelizt/117
-#EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="" group-title="LATINOS SD ",HBO2
-http://zufreelist.net:8080/listam3ufreliz/frelizt/118
-#EXTINF:-1 tvg-id="" tvg-name="Headline News" tvg-logo="" group-title="LATINOS SD ",Headline News
-http://zufreelist.net:8080/listam3ufreliz/frelizt/119
-#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="" group-title="LATINOS SD ",History Channel
-http://zufreelist.net:8080/listam3ufreliz/frelizt/120
-#EXTINF:-1 tvg-id="" tvg-name="Hola!TV" tvg-logo="" group-title="LATINOS SD ",Hola!TV
-http://zufreelist.net:8080/listam3ufreliz/frelizt/121
-#EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="" group-title="LATINOS SD ",ID
-http://zufreelist.net:8080/listam3ufreliz/frelizt/122
-#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="" group-title="LATINOS SD ",LIFE TIME
-http://zufreelist.net:8080/listam3ufreliz/frelizt/123
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="LATINOS SD ",MTV
-http://zufreelist.net:8080/listam3ufreliz/frelizt/124
-#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="LATINOS SD ",MTV Hits
-http://zufreelist.net:8080/listam3ufreliz/frelizt/125
-#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="" group-title="LATINOS SD ",Mas Chic
-http://zufreelist.net:8080/listam3ufreliz/frelizt/126
-#EXTINF:-1 tvg-id="" tvg-name="Max Prime (Oeste)" tvg-logo="" group-title="LATINOS SD ",Max Prime (Oeste)
-http://zufreelist.net:8080/listam3ufreliz/frelizt/127
-#EXTINF:-1 tvg-id="" tvg-name="Multicinema" tvg-logo="" group-title="LATINOS SD ",Multicinema
-http://zufreelist.net:8080/listam3ufreliz/frelizt/128
-#EXTINF:-1 tvg-id="" tvg-name="Multimedios" tvg-logo="" group-title="LATINOS SD ",Multimedios
-http://zufreelist.net:8080/listam3ufreliz/frelizt/129
-#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="" group-title="LATINOS SD ",Multipremier
-http://zufreelist.net:8080/listam3ufreliz/frelizt/130
-#EXTINF:-1 tvg-id="" tvg-name="NU MUSIC" tvg-logo="" group-title="LATINOS SD ",NU MUSIC
-http://zufreelist.net:8080/listam3ufreliz/frelizt/131
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids" tvg-logo="" group-title="LATINOS SD ",Nat Geo Kids
-http://zufreelist.net:8080/listam3ufreliz/frelizt/132
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="LATINOS SD ",Nat Geo Wild
-http://zufreelist.net:8080/listam3ufreliz/frelizt/133
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="LATINOS SD ",National Geographic
-http://zufreelist.net:8080/listam3ufreliz/frelizt/134
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="LATINOS SD ",Nick Jr
-http://zufreelist.net:8080/listam3ufreliz/frelizt/135
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="LATINOS SD ",Nickelodeon
-http://zufreelist.net:8080/listam3ufreliz/frelizt/136
-#EXTINF:-1 tvg-id="" tvg-name="PXTV" tvg-logo="" group-title="LATINOS SD ",PXTV
-http://zufreelist.net:8080/listam3ufreliz/frelizt/137
-#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="" group-title="LATINOS SD ",Paramount
-http://zufreelist.net:8080/listam3ufreliz/frelizt/138
-#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="" group-title="LATINOS SD ",SONY
-http://zufreelist.net:8080/listam3ufreliz/frelizt/139
-#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="" group-title="LATINOS SD ",SPACE
-http://zufreelist.net:8080/listam3ufreliz/frelizt/140
-#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="" group-title="LATINOS SD ",Studio Universal
-http://zufreelist.net:8080/listam3ufreliz/frelizt/141
-#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" tvg-logo="" group-title="LATINOS SD ",Sun Channel
-http://zufreelist.net:8080/listam3ufreliz/frelizt/142
-#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="" group-title="LATINOS SD ",SyFy
-http://zufreelist.net:8080/listam3ufreliz/frelizt/143
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="LATINOS SD ",TBS
-http://zufreelist.net:8080/listam3ufreliz/frelizt/144
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="LATINOS SD ",TCM
-http://zufreelist.net:8080/listam3ufreliz/frelizt/145
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="LATINOS SD ",TLC
-http://zufreelist.net:8080/listam3ufreliz/frelizt/146
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="LATINOS SD ",TNT
-http://zufreelist.net:8080/listam3ufreliz/frelizt/147
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="" group-title="LATINOS SD ",TNT Series
-http://zufreelist.net:8080/listam3ufreliz/frelizt/148
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="LATINOS SD ",Telemundo
-http://zufreelist.net:8080/listam3ufreliz/frelizt/149
-#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="" group-title="LATINOS SD ",Universal
-http://zufreelist.net:8080/listam3ufreliz/frelizt/150
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="LATINOS SD ",VH1
-http://zufreelist.net:8080/listam3ufreliz/frelizt/151
-#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="" group-title="LATINOS SD ",VH1 Classic
-http://zufreelist.net:8080/listam3ufreliz/frelizt/152
-#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="" group-title="LATINOS SD ",Warner
-http://zufreelist.net:8080/listam3ufreliz/frelizt/153
-#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="" group-title="LATINOS SD ",ZooMoo
-http://zufreelist.net:8080/listam3ufreliz/frelizt/154
-#EXTINF:-1 tvg-id="" tvg-name="LAT*11 - Repretel" tvg-logo="" group-title="PAISES SD",LAT*11 - Repretel
-http://zufreelist.net:8080/listam3ufreliz/frelizt/155
-#EXTINF:-1 tvg-id="" tvg-name="LAT*13-Sinart" tvg-logo="" group-title="PAISES SD",LAT*13-Sinart
-http://zufreelist.net:8080/listam3ufreliz/frelizt/156
-#EXTINF:-1 tvg-id="" tvg-name="LAT*29 - VM Latino" tvg-logo="" group-title="PAISES SD",LAT*29 - VM Latino
-http://zufreelist.net:8080/listam3ufreliz/frelizt/157
-#EXTINF:-1 tvg-id="" tvg-name="LAT*42 - Extra TV 42" tvg-logo="" group-title="PAISES SD",LAT*42 - Extra TV 42
-http://zufreelist.net:8080/listam3ufreliz/frelizt/158
-#EXTINF:-1 tvg-id="" tvg-name="LAT*6 - Repretel" tvg-logo="" group-title="PAISES SD",LAT*6 - Repretel
-http://zufreelist.net:8080/listam3ufreliz/frelizt/159
-#EXTINF:-1 tvg-id="" tvg-name="LAT*7-Teletica" tvg-logo="" group-title="PAISES SD",LAT*7-Teletica
-http://zufreelist.net:8080/listam3ufreliz/frelizt/160
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Antena 7- RD" tvg-logo="" group-title="PAISES SD",LAT*Antena 7- RD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/161
-#EXTINF:-1 tvg-id="" tvg-name="LAT*CCN" tvg-logo="" group-title="PAISES SD",LAT*CCN
-http://zufreelist.net:8080/listam3ufreliz/frelizt/162
-#EXTINF:-1 tvg-id="" tvg-name="LAT*CDN2- RD" tvg-logo="" group-title="PAISES SD",LAT*CDN2- RD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/163
-#EXTINF:-1 tvg-id="" tvg-name="LAT*CDN37 - RD" tvg-logo="" group-title="PAISES SD",LAT*CDN37 - RD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/164
-#EXTINF:-1 tvg-id="" tvg-name="LAT*CERTV" tvg-logo="" group-title="PAISES SD",LAT*CERTV
-http://zufreelist.net:8080/listam3ufreliz/frelizt/165
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal  21 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal  21 - ESA
-http://zufreelist.net:8080/listam3ufreliz/frelizt/166
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 10 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 10 - NIC
-http://zufreelist.net:8080/listam3ufreliz/frelizt/167
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 11 - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal 11 - GUA
-http://zufreelist.net:8080/listam3ufreliz/frelizt/168
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 12 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 12 - ESA
-http://zufreelist.net:8080/listam3ufreliz/frelizt/169
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 12 - NI" tvg-logo="" group-title="PAISES SD",LAT*Canal 12 - NI
-http://zufreelist.net:8080/listam3ufreliz/frelizt/170
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 13 - PAN" tvg-logo="" group-title="PAISES SD",LAT*Canal 13 - PAN
-http://zufreelist.net:8080/listam3ufreliz/frelizt/171
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 13-GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal 13-GUA
-http://zufreelist.net:8080/listam3ufreliz/frelizt/172
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 14 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 14 - NIC
-http://zufreelist.net:8080/listam3ufreliz/frelizt/173
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 19  ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 19  ESA
-http://zufreelist.net:8080/listam3ufreliz/frelizt/174
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 2 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 2 - ESA
-http://zufreelist.net:8080/listam3ufreliz/frelizt/175
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 2 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 2 - NIC
-http://zufreelist.net:8080/listam3ufreliz/frelizt/176
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 2 - PAN" tvg-logo="" group-title="PAISES SD",LAT*Canal 2 - PAN
-http://zufreelist.net:8080/listam3ufreliz/frelizt/177
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 3 - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal 3 - GUA
-http://zufreelist.net:8080/listam3ufreliz/frelizt/178
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 4 - ESA
-http://zufreelist.net:8080/listam3ufreliz/frelizt/179
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 4 - NIC
-http://zufreelist.net:8080/listam3ufreliz/frelizt/180
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - PAN" tvg-logo="" group-title="PAISES SD",LAT*Canal 4 - PAN
-http://zufreelist.net:8080/listam3ufreliz/frelizt/181
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 6 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 6 - ESA
-http://zufreelist.net:8080/listam3ufreliz/frelizt/182
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 6 - NI" tvg-logo="" group-title="PAISES SD",LAT*Canal 6 - NI
-http://zufreelist.net:8080/listam3ufreliz/frelizt/183
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 7 - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal 7 - GUA
-http://zufreelist.net:8080/listam3ufreliz/frelizt/184
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 8 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 8 - NIC
-http://zufreelist.net:8080/listam3ufreliz/frelizt/185
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Antigua - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal Antigua - GUA
-http://zufreelist.net:8080/listam3ufreliz/frelizt/186
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Azteca - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal Azteca - GUA
-http://zufreelist.net:8080/listam3ufreliz/frelizt/187
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Digital 15 - RD" tvg-logo="" group-title="PAISES SD",LAT*Digital 15 - RD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/188
-#EXTINF:-1 tvg-id="" tvg-name="LAT*NEXT - PAN" tvg-logo="" group-title="PAISES SD",LAT*NEXT - PAN
-http://zufreelist.net:8080/listam3ufreliz/frelizt/189
-#EXTINF:-1 tvg-id="" tvg-name="LAT*TV  Max - PAN" tvg-logo="" group-title="PAISES SD",LAT*TV  Max - PAN
-http://zufreelist.net:8080/listam3ufreliz/frelizt/190
-#EXTINF:-1 tvg-id="" tvg-name="LAT*TVChile" tvg-logo="" group-title="PAISES SD",LAT*TVChile
-http://zufreelist.net:8080/listam3ufreliz/frelizt/191
-#EXTINF:-1 tvg-id="" tvg-name="LAT*TVE" tvg-logo="" group-title="PAISES SD",LAT*TVE
-http://zufreelist.net:8080/listam3ufreliz/frelizt/192
-#EXTINF:-1 tvg-id="" tvg-name="LAT*TVM25 -  ESA" tvg-logo="" group-title="PAISES SD",LAT*TVM25 -  ESA
-http://zufreelist.net:8080/listam3ufreliz/frelizt/193
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Tele Antillas - RD" tvg-logo="" group-title="PAISES SD",LAT*Tele Antillas - RD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/194
-#EXTINF:-1 tvg-id="" tvg-name="LAT*TeleMicro - RD" tvg-logo="" group-title="PAISES SD",LAT*TeleMicro - RD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/195
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Telecentro - RD" tvg-logo="" group-title="PAISES SD",LAT*Telecentro - RD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/196
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Telesistema RD" tvg-logo="" group-title="PAISES SD",LAT*Telesistema RD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/197
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Teleunion - RD" tvg-logo="" group-title="PAISES SD",LAT*Teleunion - RD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/198
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Teleuniverso - RD" tvg-logo="" group-title="PAISES SD",LAT*Teleuniverso - RD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/199
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Televida RD" tvg-logo="" group-title="PAISES SD",LAT*Televida RD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/200
-#EXTINF:-1 tvg-id="" tvg-name="LAT*VTV Canal 35 ESA" tvg-logo="" group-title="PAISES SD",LAT*VTV Canal 35 ESA
-http://zufreelist.net:8080/listam3ufreliz/frelizt/201
-#EXTINF:-1 tvg-id="" tvg-name="LAT*CNN Internacional" tvg-logo="" group-title="PAISES SD",LAT*CNN Internacional
-http://zufreelist.net:8080/listam3ufreliz/frelizt/202
-#EXTINF:-1 tvg-id="" tvg-name="LAT*CNNE" tvg-logo="" group-title="PAISES SD",LAT*CNNE
-http://zufreelist.net:8080/listam3ufreliz/frelizt/203
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="" group-title="24/7",24/7 CANTINFLAS
-http://zufreelist.net:8080/listam3ufreliz/frelizt/204
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the middle 2000" tvg-logo="" group-title="24/7",24/7 Malcolm in the middle 2000
-http://zufreelist.net:8080/listam3ufreliz/frelizt/205
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="" group-title="24/7",24/7 Dragon Ball Super
-http://zufreelist.net:8080/listam3ufreliz/frelizt/206
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Los Simpson" tvg-logo="" group-title="24/7",24/7  Los Simpson
-http://zufreelist.net:8080/listam3ufreliz/frelizt/207
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Thundercats" tvg-logo="" group-title="24/7",24/7 Thundercats
-http://zufreelist.net:8080/listam3ufreliz/frelizt/208
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Coyote y el Correcaminos" tvg-logo="" group-title="24/7",24/7 El Coyote y el Correcaminos
-http://zufreelist.net:8080/listam3ufreliz/frelizt/209
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa" tvg-logo="" group-title="24/7",24/7 La pantera rosa
-http://zufreelist.net:8080/listam3ufreliz/frelizt/210
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del 8" tvg-logo="" group-title="24/7",24/7 El Chavo del 8
-http://zufreelist.net:8080/listam3ufreliz/frelizt/211
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
-http://zufreelist.net:8080/listam3ufreliz/frelizt/212
-#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS 1991" tvg-logo="" group-title="24/7",24/7  DINOSAURIOS 1991
-http://zufreelist.net:8080/listam3ufreliz/frelizt/213
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Dragon Ball 1984" tvg-logo="" group-title="24/7",24/7  Dragon Ball 1984
-http://zufreelist.net:8080/listam3ufreliz/frelizt/214
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT 1996" tvg-logo="" group-title="24/7",24/7 Dragon Ball GT 1996
-http://zufreelist.net:8080/listam3ufreliz/frelizt/215
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z 1989" tvg-logo="" group-title="24/7",24/7 Dragon Ball Z 1989
-http://zufreelist.net:8080/listam3ufreliz/frelizt/216
-#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="" group-title="24/7",24/7 EL CHAPULIN COLORADO
-http://zufreelist.net:8080/listam3ufreliz/frelizt/217
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los locos Addams" tvg-logo="" group-title="24/7",24/7 Los locos Addams
-http://zufreelist.net:8080/listam3ufreliz/frelizt/218
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Familia Monster 1964" tvg-logo="" group-title="24/7",24/7 La Familia Monster 1964
-http://zufreelist.net:8080/listam3ufreliz/frelizt/219
-#EXTINF:-1 tvg-id="" tvg-name="Sonic: la pelÃ­cula (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYbANSoj6qGTbDkstq9J5Vy8fRF.jpg" group-title="2020",Sonic: la pelÃ­cula (2020)
-http://zufreelist.net:8080/movie/listam3ufreliz/frelizt/397.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bad Boy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sqmgVUKelFlDasWsdX0SV6c0Fq.jpg" group-title="2020",Bad Boy (2020)
-http://zufreelist.net:8080/movie/listam3ufreliz/frelizt/398.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Onward (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHWeWBBOlkPYdlZcjSKeToQvgZg.jpg" group-title="2020",Onward (2020)
-http://zufreelist.net:8080/movie/listam3ufreliz/frelizt/399.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la piedra filosofal (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" group-title="Harry Potter",Harry Potter y la piedra filosofal (2001)
-http://zufreelist.net:8080/movie/listam3ufreliz/frelizt/400.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el prisionero de Azkaban - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" group-title="Harry Potter",Harry Potter y el prisionero de Azkaban - 2004
-http://zufreelist.net:8080/movie/listam3ufreliz/frelizt/401.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la Orden del FÃ©nix (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5bL1z1ZOAKBkvbOhVQp6GfBv4u.jpg" group-title="Harry Potter",Harry Potter y la Orden del FÃ©nix (2007)
-http://zufreelist.net:8080/movie/listam3ufreliz/frelizt/402.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el misterio del prÃ­ncipe (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSb3nNiL6pOEDK34T0U6RKTGzlJ.jpg" group-title="Harry Potter",Harry Potter y el misterio del prÃ­ncipe (2009)
-http://zufreelist.net:8080/movie/listam3ufreliz/frelizt/403.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el cÃ¡liz de fuego (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg" group-title="Harry Potter",Harry Potter y el cÃ¡liz de fuego (2005)
-http://zufreelist.net:8080/movie/listam3ufreliz/frelizt/404.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la cÃ¡mara secreta (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg" group-title="Harry Potter",Harry Potter y la cÃ¡mara secreta (2002)
-http://zufreelist.net:8080/movie/listam3ufreliz/frelizt/405.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg" group-title="Harry Potter",Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)
-http://zufreelist.net:8080/movie/listam3ufreliz/frelizt/406.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las Reliquias de la Muerte - Parte 1 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYyoJ4Yadk0MCBHZPFrgvMDl50o.jpg" group-title="Harry Potter",Harry Potter y las Reliquias de la Muerte - Parte 1 (2010)
-http://zufreelist.net:8080/movie/listam3ufreliz/frelizt/407.mkv
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="ESPAÃ‘A",EUROSPORT 2
-http://zufreelist.net:8080/listam3ufreliz/frelizt/408
-#EXTINF:-1 tvg-id="" tvg-name="CRIME&INVESTIGATION" tvg-logo="" group-title="ESPAÃ‘A",CRIME&INVESTIGATION
-http://zufreelist.net:8080/listam3ufreliz/frelizt/409
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="ESPAÃ‘A",COMEDY CENTRAL
-http://zufreelist.net:8080/listam3ufreliz/frelizt/410
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="ESPAÃ‘A",AMC
-http://zufreelist.net:8080/listam3ufreliz/frelizt/411
-#EXTINF:-1 tvg-id="" tvg-name="TOROS HD" tvg-logo="" group-title="ESPAÃ‘A",TOROS HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/412
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="ESPAÃ‘A",TNT
-http://zufreelist.net:8080/listam3ufreliz/frelizt/413
-#EXTINF:-1 tvg-id="" tvg-name="TAQ 6" tvg-logo="" group-title="ESPAÃ‘A",TAQ 6
-http://zufreelist.net:8080/listam3ufreliz/frelizt/414
-#EXTINF:-1 tvg-id="" tvg-name="TAQ 5" tvg-logo="" group-title="ESPAÃ‘A",TAQ 5
-http://zufreelist.net:8080/listam3ufreliz/frelizt/415
-#EXTINF:-1 tvg-id="" tvg-name="TAQ 4" tvg-logo="" group-title="ESPAÃ‘A",TAQ 4
-http://zufreelist.net:8080/listam3ufreliz/frelizt/416
-#EXTINF:-1 tvg-id="" tvg-name="TAQ 3" tvg-logo="" group-title="ESPAÃ‘A",TAQ 3
-http://zufreelist.net:8080/listam3ufreliz/frelizt/417
-#EXTINF:-1 tvg-id="" tvg-name="TAQ 2" tvg-logo="" group-title="ESPAÃ‘A",TAQ 2
-http://zufreelist.net:8080/listam3ufreliz/frelizt/418
-#EXTINF:-1 tvg-id="" tvg-name="TAQ 1" tvg-logo="" group-title="ESPAÃ‘A",TAQ 1
-http://zufreelist.net:8080/listam3ufreliz/frelizt/419
-#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="ESPAÃ‘A",SYFY HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/420
-#EXTINF:-1 tvg-id="" tvg-name="SERIES HD" tvg-logo="" group-title="ESPAÃ‘A",SERIES HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/421
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="ESPAÃ‘A",NATIONAL GEOGRAPHIC HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/422
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="ESPAÃ‘A",NAT GEO WILD HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/423
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="ESPAÃ‘A",MTV
-http://zufreelist.net:8080/listam3ufreliz/frelizt/424
-#EXTINF:-1 tvg-id="" tvg-name="MOTOGP" tvg-logo="" group-title="ESPAÃ‘A",MOTOGP
-http://zufreelist.net:8080/listam3ufreliz/frelizt/425
-#EXTINF:-1 tvg-id="" tvg-name="LIGA CAMPEONES" tvg-logo="" group-title="ESPAÃ‘A",LIGA CAMPEONES
-http://zufreelist.net:8080/listam3ufreliz/frelizt/426
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HD" tvg-logo="" group-title="ESPAÃ‘A",LA LIGA TV HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/427
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA HD" tvg-logo="" group-title="ESPAÃ‘A",HISTORIA HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/428
-#EXTINF:-1 tvg-id="" tvg-name="GOLTV" tvg-logo="" group-title="ESPAÃ‘A",GOLTV
-http://zufreelist.net:8080/listam3ufreliz/frelizt/429
-#EXTINF:-1 tvg-id="" tvg-name="GOLF HD" tvg-logo="" group-title="ESPAÃ‘A",GOLF HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/430
-#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="ESPAÃ‘A",FOX HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/431
-#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1" tvg-logo="" group-title="ESPAÃ‘A",FORMULA 1
-http://zufreelist.net:8080/listam3ufreliz/frelizt/432
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT HD" tvg-logo="" group-title="ESPAÃ‘A",EUROSPORT HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/433
-#EXTINF:-1 tvg-id="" tvg-name="ESTRENOS HD" tvg-logo="" group-title="ESPAÃ‘A",ESTRENOS HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/434
-#EXTINF:-1 tvg-id="" tvg-name="DRAMA" tvg-logo="" group-title="ESPAÃ‘A",DRAMA
-http://zufreelist.net:8080/listam3ufreliz/frelizt/435
-#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="ESPAÃ‘A",DMAX
-http://zufreelist.net:8080/listam3ufreliz/frelizt/436
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD" tvg-logo="" group-title="ESPAÃ‘A",DEPORTES HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/437
-#EXTINF:-1 tvg-id="" tvg-name="COMEDIA HD" tvg-logo="" group-title="ESPAÃ‘A",COMEDIA HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/438
-#EXTINF:-1 tvg-id="" tvg-name="COCINA" tvg-logo="" group-title="ESPAÃ‘A",COCINA
-http://zufreelist.net:8080/listam3ufreliz/frelizt/439
-#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="" group-title="ESPAÃ‘A",CAZA Y PESCA
-http://zufreelist.net:8080/listam3ufreliz/frelizt/440
-#EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="" group-title="ESPAÃ‘A",CALLE 13
-http://zufreelist.net:8080/listam3ufreliz/frelizt/441
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD" tvg-logo="" group-title="ESPAÃ‘A",BEIN SPORT HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/442
-#EXTINF:-1 tvg-id="" tvg-name="BEIN LA LIGA HD" tvg-logo="" group-title="ESPAÃ‘A",BEIN LA LIGA HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/443
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="ESPAÃ‘A",AXN WHITE HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/444
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="ESPAÃ‘A",AXN HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/445
-#EXTINF:-1 tvg-id="" tvg-name="ACCION HD" tvg-logo="" group-title="ESPAÃ‘A",ACCION HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/446
-#EXTINF:-1 tvg-id="" tvg-name="#V" tvg-logo="" group-title="ESPAÃ‘A",#V
-http://zufreelist.net:8080/listam3ufreliz/frelizt/447
-#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="" group-title="ESPAÃ‘A",#0 HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/448
-#EXTINF:-1 tvg-id="" tvg-name="VIAJAR HD" tvg-logo="" group-title="ESPAÃ‘A",VIAJAR HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/449
-#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="ESPAÃ‘A",TCM HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/450
-#EXTINF:-1 tvg-id="" tvg-name="DOC&ROLL HD" tvg-logo="" group-title="ESPAÃ‘A",DOC&ROLL HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/451
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="ESPAÃ‘A",A&E
-http://zufreelist.net:8080/listam3ufreliz/frelizt/452
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="" group-title="ESPAÃ‘A",HOLLYWOOD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/453
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 2 HD" tvg-logo="" group-title="ESPAÃ‘A",Sky Sport Bundesliga 2 HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/454
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="" group-title="ESPAÃ‘A",Sky Sport Bundesliga 1 HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/455
-#EXTINF:-1 tvg-id="" tvg-name="LAT*A&E HD" tvg-logo="" group-title="LATINOS HD",LAT*A&E HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/457
-#EXTINF:-1 tvg-id="" tvg-name="LAT*AMC HD" tvg-logo="" group-title="LATINOS HD",LAT*AMC HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/458
-#EXTINF:-1 tvg-id="" tvg-name="LAT*AXN HD" tvg-logo="" group-title="LATINOS HD",LAT*AXN HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/459
-#EXTINF:-1 tvg-id="" tvg-name="LAT*AZ click HD" tvg-logo="" group-title="LATINOS HD",LAT*AZ click HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/460
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Animal Planet HD" tvg-logo="" group-title="LATINOS HD",LAT*Animal Planet HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/461
-#EXTINF:-1 tvg-id="" tvg-name="LAT*CARTOON NT HD" tvg-logo="" group-title="LATINOS HD",LAT*CARTOON NT HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/462
-#EXTINF:-1 tvg-id="" tvg-name="LAT*CINECANAL HD" tvg-logo="" group-title="LATINOS HD",LAT*CINECANAL HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/463
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Claro HD" tvg-logo="" group-title="LATINOS HD",LAT*Canal Claro HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/464
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Claro Sports HD" tvg-logo="" group-title="LATINOS HD",LAT*Claro Sports HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/465
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Comedy Central HD" tvg-logo="" group-title="LATINOS HD",LAT*Comedy Central HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/466
-#EXTINF:-1 tvg-id="" tvg-name="LAT*DHE HD" tvg-logo="" group-title="LATINOS HD",LAT*DHE HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/467
-#EXTINF:-1 tvg-id="" tvg-name="LAT*DISCOVERY THEATHER HD" tvg-logo="" group-title="LATINOS HD",LAT*DISCOVERY THEATHER HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/468
-#EXTINF:-1 tvg-id="" tvg-name="LAT*E! Entertairment HD" tvg-logo="" group-title="LATINOS HD",LAT*E! Entertairment HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/469
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Europa HD" tvg-logo="" group-title="LATINOS HD",LAT*Europa HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/470
-#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Action HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX Action HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/471
-#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Family HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX Family HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/472
-#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/473
-#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Movies HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX Movies HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/474
-#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Series HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX Series HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/475
-#EXTINF:-1 tvg-id="" tvg-name="LAT*FX HD" tvg-logo="" group-title="LATINOS HD",LAT*FX HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/476
-#EXTINF:-1 tvg-id="" tvg-name="LAT*FX Movies HD" tvg-logo="" group-title="LATINOS HD",LAT*FX Movies HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/477
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Film & arts HD" tvg-logo="" group-title="LATINOS HD",LAT*Film & arts HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/478
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Golf Channel HD" tvg-logo="" group-title="LATINOS HD",LAT*Golf Channel HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/479
-#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO Family HD" tvg-logo="" group-title="LATINOS HD",LAT*HBO Family HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/480
-#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO HD" tvg-logo="" group-title="LATINOS HD",LAT*HBO HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/481
-#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO Plus HD" tvg-logo="" group-title="LATINOS HD",LAT*HBO Plus HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/482
-#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO2 HD" tvg-logo="" group-title="LATINOS HD",LAT*HBO2 HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/483
-#EXTINF:-1 tvg-id="" tvg-name="LAT*HOLA! TV HD" tvg-logo="" group-title="LATINOS HD",LAT*HOLA! TV HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/484
-#EXTINF:-1 tvg-id="" tvg-name="LAT*History HD" tvg-logo="" group-title="LATINOS HD",LAT*History HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/485
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Home & Health HD" tvg-logo="" group-title="LATINOS HD",LAT*Home & Health HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/486
-#EXTINF:-1 tvg-id="" tvg-name="LAT*MTV HD" tvg-logo="" group-title="LATINOS HD",LAT*MTV HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/487
-#EXTINF:-1 tvg-id="" tvg-name="LAT*MTV SIM HD" tvg-logo="" group-title="LATINOS HD",LAT*MTV SIM HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/488
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Max Prime HD" tvg-logo="" group-title="LATINOS HD",LAT*Max Prime HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/489
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Nick 2 HD" tvg-logo="" group-title="LATINOS HD",LAT*Nick 2 HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/490
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Nick SIM HD" tvg-logo="" group-title="LATINOS HD",LAT*Nick SIM HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/491
-#EXTINF:-1 tvg-id="" tvg-name="LAT*SONY HD" tvg-logo="" group-title="LATINOS HD",LAT*SONY HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/492
-#EXTINF:-1 tvg-id="" tvg-name="LAT*SPACE HD" tvg-logo="" group-title="LATINOS HD",LAT*SPACE HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/493
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Studio Universal HD" tvg-logo="" group-title="LATINOS HD",LAT*Studio Universal HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/494
-#EXTINF:-1 tvg-id="" tvg-name="LAT*SyFy HD" tvg-logo="" group-title="LATINOS HD",LAT*SyFy HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/495
-#EXTINF:-1 tvg-id="" tvg-name="LAT*TNT HD" tvg-logo="" group-title="LATINOS HD",LAT*TNT HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/496
-#EXTINF:-1 tvg-id="" tvg-name="LAT*Telemundo HD" tvg-logo="" group-title="LATINOS HD",LAT*Telemundo HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/497
-#EXTINF:-1 tvg-id="" tvg-name="LAT*VH1 HD" tvg-logo="" group-title="LATINOS HD",LAT*VH1 HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/498
-#EXTINF:-1 tvg-id="" tvg-name="LAT*WARNER HD" tvg-logo="" group-title="LATINOS HD",LAT*WARNER HD
-http://zufreelist.net:8080/listam3ufreliz/frelizt/499
+#EXTINF:-1,--- LISTA GRATIS achoapps.com
+http://www.achotv.com
+#EXTINF:-1,--- Visita www.achoapps.com ---
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/13max.png" group-title="Entretenimiento", 13 MAX (Argentina)
+http://coninfo.net:1935/13maxhd/live_720p/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MeaSmiv.jpg" group-title="MEXICO", 15TV Sabinas | SD
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", ABC Live
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/abc.png" group-title="Internacional", ABC News
+http://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", AlJazeera Arabe
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", AlJazeera ENGLISH
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/americanhorrors.png" group-title="Entretenimiento", American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/aprendetv.png" group-title="Cultura", Aprende TV
+http://liveingesta118.cdnmedia.tv//dgtvelive/smil:aprend24.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/" group-title="Internacional", Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", Cachipum TV
+http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://advancescreenings.com/img/outlets/c/california_music_channel.jpg" group-title="Musica", California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lg6TVYn.png" group-title="CHILE", Camara de Diputados (DVR) | SD
+http://camara.02.cl.cdnz.cl/cdndvr/ngrp:live_all/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lg6TVYn.png" group-title="CHILE", Camara de Diputados | SD
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Canal 10 Chetumal | HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LU2WQFP.jpg" group-title="ARGENTINA", Canal 11 Ushuaia | HD
+https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMgoMeO.png" group-title="MEXICO", Canal 20 Zacatecas | SD
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://igx.4sqi.net/img/general/200x200/27679561_G1AdkrWJvY8Vn4MTPtLWhdvidYwIbTrPu04DFZx2gPw.png" group-title="Entretenimiento", Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="MEXICO", Canal 4 | SD
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHauFcA.png" group-title="ARGENTINA", Canal 5 Telesol | HD
+http://149.56.98.124:9090/hls/telesol.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tZ3gJiP.png" group-title="CHILE", Canal 9 | HD | Concepcion
+http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nD9TVZg.jpg" group-title="ARGENTINA", Canal 9 Comodoro Rivadavia | SD
+http://live.canalnueve.tv:8082/hls/canal.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/any5MCR.png" group-title="COLOMBIA", Canal CNC Medellin | SD
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DpN7K62.png" group-title="MEXICO", Canal del Congreso | SD
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qmFK5y8.gif" group-title="ARGENTINA", Canal Provincial | SD
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xKwAuc.png" group-title="MEXICO", Capital 21 | SD
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+
+#EXTINF:-1 tvg-logo="" group-title="CHILE", Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cb24.png" group-title="Entretenimiento", CB24
+http://18.191.91.130:1935/live/CB24/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cbs.png" group-title="Internacional", CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cbtv_m.png" group-title="Entretenimiento", CBTV
+http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU", Central TV | SD
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", CGTN ES
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2015chvlogo.png/605px-2015chvlogo.png" group-title="Entretenimiento", Chilevision
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AopOaEX.jpg" group-title="CHILE", CHV | HD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dd9PMar.png" group-title="CHILE", CNN Chile | HD (Mirror USA)
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9jnpUn.png" group-title="ARGENTINA", Cool 103.7 (Radio con Video) | HD
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/digi24.png" group-title="Internacional", Digi 24 (Rumania)
+http://82.76.40.76/digi24edge/digi24.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Musica", Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/dw.png" group-title="Internacional", DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/earthcam.png" group-title="Internacional", EarthCam South View
+http://video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/earthcam.png" group-title="Internacional", EarthCam Street Cam
+http://video3.earthcam.com/fecnetwork/9974.flv/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/earthcam.png" group-title="Internacional", EarthCam Times Ware
+http://video3.earthcam.com/fecnetwork/hdtimes10.flv/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica", EXATV
+http://streamingcws20.com:1935/examor/videoexamor/.m3u8
+
+#EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="Cine", Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="Deportes", Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="http://fmhot.cl/wp-content/uploads/2014/08/logo1.png" group-title="Cine", FM Hot
+http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Grupo Formula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK6t7FP.jpg" group-title="GUATEMALA", Guatevision | SD
+http://api.new.livestream.com/accounts/25697071/events/7829275/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://todotv.net/tv/img/Hit-tv.png" group-title="Musica", Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xWYteYe.png" group-title="MEXICO", Ingenio TV | SD
+http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="España", La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiW6vgk.jpg" group-title="ARGENTINA", Litus | HD
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HN9mYDP.png" group-title="CHILE", MEGA | HD
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiImwkf.png" group-title="PERU", Mega TV Araquipa | SD
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/27274/logo_melody%20channel1.png" group-title="Musica", Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/mexiquense.png" group-title="Entretenimiento", Mexiquense
+http://liveingesta118.cdnmedia.tv/tvmexicolive/tvmex.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VHSjbEj.png" group-title="MEXICO", Milenio | SD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="Deportes", MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", MTV Noruega
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios CDMX
+http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO", Multimedios Laguna | HD
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO", Multimedios Monterrey | HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios Torreon
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multivision.png" group-title="Entretenimiento", Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/munchen.png" group-title="Internacional", Munchen TV (Alemania)
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Mc Play
+http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/musictop.png" group-title="Musica", Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="ARGENTINA", Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/nasa.png" group-title="Internacional", NASA iss
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/nasa.png" group-title="Internacional", NASA Media
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/nasa.png" group-title="Internacional", NASA Public
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://demedios.info/wp-content/uploads/2018/06/logo-net-tv.jpg" group-title="Entretenimiento", Net TV
+http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cna.png" group-title="Internacional", News Asia
+http://drsh196ivjwe8.cloudfront.net/hls/cnai/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Next TV
+http://198.1.117.5:1935/live/livestream/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/nhkworld.png" group-title="Internacional", NHK World
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://top-radio.org/wp-content/uploads/logo-fb/jXYUj6Xx62.jpg" group-title="Infantil", Pequeradio
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZuWrF8.png" group-title="ARGENTINA", Power HD | HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yb8aUmW.jpg" group-title="MEXICO", Puebla TV | SD
+http://189.203.247.136/live/pueblatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.invubu.com/radio/radio_images/logos/radiou/radiou-logo500.png" group-title="Musica", Radio U
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/radioutv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NsPz9Tr.png" group-title="MEXICO", RCG | SD
+http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hxpSI0R.png" group-title="MEXICO", RCG 2 | SD
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LEBQ8B5.png" group-title="MEXICO", RCG 3 | SD
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Musica", SON POPULAR
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+
+#EXTINF:-1tvg-logo="https://i.imgur.com/OBv7Wb7.png" group-title="COSTA RICA", Super Cinco | SD
+http://k4.usastreams.com/superC/superC_1/chunklist_w27246718.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="Entretenimiento", TC
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vWyTg5L.png" group-title="HONDURAS", Teleceiba Canal 7 | SD
+http://190.11.224.14:8134/liveevent.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entretenimiento", Teledoce
+https://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/telemax.png" group-title="Entretenimiento", Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", Telemax | HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="COSTA RICA", Telered | SD
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/adIFsFw.png" group-title="COSTA RICA", Teleuno | SD
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Telpin
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="HONDURAS", TEN Honduras | HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
+#EXTINF:-1tvg-logo="https://i.imgur.com/Zkfw06k.jpg" group-title="COSTA RICA", Ticavision | SD
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xcpZ2Gr.jpg" group-title="MEXICO", Tlaxcala TV | SD
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-gDfpykQXiAY/TtedvKOo74I/AAAAAAAARQ4/p6pXiwKtz08/s1600/tlx.png" group-title="Entretenimiento", TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica", TMTV
+http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/trt.png" group-title="Internacional", TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/trt.png" group-title="Internacional", TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eqpww5i.png" group-title="PERU", Turbo Mix Radio TV | SD
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VkhYiMT.png" group-title="HONDURAS", TV Azteca Honduras | SD
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://yusnaby.com/wp-content/uploads/tvmarti.jpg" group-title="CUBA", Tv Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO", TV Mas | SD
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.prensario.net/Multimedios/imgs/21993_468.png" group-title="Entretenimiento", Tv Pop
+http://v3.tustreaming.cl/tvpop/live1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozCnnDg.png" group-title="CHILE", TV Senado | HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+
+#EXTINF:-1 tvg-logo="" group-title="", TVMax
+http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/xkbjFrZjE6C0XcIGJRrNEk-TEe8LBvv8/cn/9f9cf618b2464b86b7a7a074ab605613.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="", TVN Panama
+http://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f41IHoB.png" group-title="CHILE", TVN Señal de Pruebas | HD
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", TVP Los Mochis
+https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/chunklist_w1578529085_b978000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Aguacalientes | HD
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="MEXICO", Ultra TV Puebla | HD
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", UMAG TV
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Uno
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/wn.png" group-title="Internacional", Wather Nation (USA)
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/.m3u8
+
+#EXTINF:-1, Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2390/brand.gif?itok=VjuQO7rI" group-title="Internacional", Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/wgn9.png" group-title="Internacional", WGN 9
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="Cine", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://www.tdcgroup.org/media_library/logos_files/wowtv_logo.png" group-title="Entretenimiento", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWqq06v.png" group-title="REPUBLICA DOMINICANA", Xtremo Channel Zol | SD
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/EWcqEk5WMIM/maxresdefault.jpg" group-title="BRAZIL",Amazon Sat
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA",America HD
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.freeetv.com/images/01_logo/tv_aperipe.jpg" group-title="BRAZIL",Aperipe TV
+http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
+
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="http://live.campushd.tv/wp-content/uploads/2017/04/LOGO-CAMPUS.png",Campus HD
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+
+#EXTINF:1,CANAL 8
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://logowow.net/logos/thumb-fDocFft2r.png" group-title="PERU",Canal RPP
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Y9BkR86cEgMjBCHqPjBXdW7D_Lw5hmw5nkURoCh6bLqjAiD57JnmqwGS6FfVQNiytWk=h310" group-title="ECUADOR",Centro Ecuador
+http://unsecure.streann.com/loadbalancer/services/public/channels/57cef28b2cdc6843385b86ce/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://i.imgur.com/SYPYeHt.jpg" group-title="BRAZIL",Cine+
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGHKzseXcAEiMIL.jpg" group-title="ARGENTINA",CN3 Pinamar
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+#EXTINF:-1,CRIMEN E INVESTIGACION
+http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-zowFrNEOpTo/WI4N-4cC1HI/AAAAAAAAEd4/GFCFneNSFgQ4zF77gcE0myrnqlj78PbtACLcB/s1600/CTC%2BHD.png" group-title="PERU",CTC TV Cusco
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.luperondigital.com/wp-content/uploads/2017/01/digital-15-vivo-Canales-Dominicanos.jpg" group-title="DOMINICAN REP",Digital 15
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12
+
+#EXTINF:0 tvg-logo="https://jefedejefes.files.wordpress.com/2009/04/logo_teaser.jpg" group-title="MEXICO",Efekto Tv HD
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AD1LgcZ.png" group-title="Entretenimiento",Efekto TV HD
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_1_av-p.m3u8
+
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Canal5HN2017.png/230px-Canal5HN2017.png",El Lider
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-Hechos-Ecuador.jpg" group-title="ECUADOR",Hechos Ecuador
+http://37.187.7.106/hechostv/live.m3u8
+
+#EXTINF:-1,Lancelot TV PELI
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/t1qPpbK.jpg" group-title="INFANTIL",Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lunatv.do/stream/imagen/logo-stream.png" group-title="DOMINICAN REP",Luna Tv
+http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bhj6YkMyoHo/hqdefault.jpg" group-title="DOMINICAN REP",MicroVision Canal 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="MEXICO" ,Multimedios
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/8yYq2Yd.jpg" group-title="DOMINICAN REP",Naranja TV
+http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/500px-Sol_tv_pe.png" group-title="PERU",Sol TV
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.teledoce.com/wp-content/uploads/2018/06/logo-latele-2016-2-1-3.png" group-title="URUGUAY",TeleDoce
+http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/fdd1b1_ea866a37c0114866acf8472c1f42000d~mv2.png" group-title="COLOMBIA",Telemedellin
+http://level3itvo.cdnar.net/itvmedia/14/1/channel_000.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" group-title="DOMINICAN REP",Telemicro Canal 5  (Opt-2)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12
+
+#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 12
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0028&mode=12
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/200px-TeleSUR-Logo.svg.png" group-title="VENEZUELA",TeleSUR
+https://streaming.openmultimedia.biz/blive/ngrp:balta.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg" group-title="HONDURAS",TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg" group-title="HONDURAS",TEN Canal 10 SD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8
+
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TSi_Honduras.png",TSi
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="BRAZIL",TV Gazeta
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1  tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" group-title="BRAZIL",TV INES
+http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/bPUH9Zp.jpeg" group-title="MEXICO",TV Mas
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/XNF7iTqRwBE/hqdefault.jpg" group-title="BRAZIL",TV MCJ
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="PERU",Tv Peru
+https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.tvriopreto.com.br/home/wp-content/uploads/TVN-2.png" group-title="BRAZIL",TV Rio Preto
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cronicadigital.cl/imagenes/noticias/2014/09/canal-senado1.jpeg" group-title="CHILE",Tv Senado 2 SD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA",TvES
+http://198.24.135.42/canal10/canal10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L1AkNUo.jpg" group-title="CHILE",VC Online HD
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/u3-0ZnHM4GY/hqdefault.jpg" group-title="PUERTO RICO",WORO-TV Teleoro Canal 13
+http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/u3-0ZnHM4GY/hqdefault.jpg" group-title="PUERTO RICO",WORO-TV Teleoro Canal 13*
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPR0008&mode=12
