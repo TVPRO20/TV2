@@ -1,4 +1,555 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="directvsports2" tvg-logo="" group-title="TEST",directvsports2
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/1
+#EXTINF:-1 tvg-id="" tvg-name="directv" tvg-logo="" group-title="TEST",directv
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/2
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2" tvg-logo="" group-title="TEST",ESPN2
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/3
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT" tvg-logo="" group-title="TEST",BEIN SPORT
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/4
+#EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="" group-title="TEST",FUTV
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/5
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="LATINOS SD ",A&E
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/54
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="LATINOS SD ",AMC
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/55
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="LATINOS SD ",AXN
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/56
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="LATINOS SD ",Animal Planet
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/57
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="" group-title="LATINOS SD ",Antena 3
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/58
+#EXTINF:-1 tvg-id="" tvg-name="Atres Series" tvg-logo="" group-title="LATINOS SD ",Atres Series
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/59
+#EXTINF:-1 tvg-id="" tvg-name="Azcorazon" tvg-logo="" group-title="LATINOS SD ",Azcorazon
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/60
+#EXTINF:-1 tvg-id="" tvg-name="Azmundo" tvg-logo="" group-title="LATINOS SD ",Azmundo
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/61
+#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="" group-title="LATINOS SD ",BBC World
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/62
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="LATINOS SD ",Baby TV
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/63
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="LATINOS SD ",Boomerang
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/64
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="" group-title="LATINOS SD ",CLARO SPORTS
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/65
+#EXTINF:-1 tvg-id="" tvg-name="CONCERT CHANNEL" tvg-logo="" group-title="LATINOS SD ",CONCERT CHANNEL
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/66
+#EXTINF:-1 tvg-id="" tvg-name="Canal Claro" tvg-logo="" group-title="LATINOS SD ",Canal Claro
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/67
+#EXTINF:-1 tvg-id="" tvg-name="Canal del Congreso" tvg-logo="" group-title="LATINOS SD ",Canal del Congreso
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/68
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="LATINOS SD ",Cartoon Network
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/69
+#EXTINF:-1 tvg-id="" tvg-name="Cincomas" tvg-logo="" group-title="LATINOS SD ",Cincomas
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/70
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="" group-title="LATINOS SD ",Cine Latino
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/71
+#EXTINF:-1 tvg-id="" tvg-name="CineCanal" tvg-logo="" group-title="LATINOS SD ",CineCanal
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/72
+#EXTINF:-1 tvg-id="" tvg-name="CineMax" tvg-logo="" group-title="LATINOS SD ",CineMax
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/73
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Dinamita" tvg-logo="" group-title="LATINOS SD ",Cinema Dinamita
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/74
+#EXTINF:-1 tvg-id="" tvg-name="Claro Cinema" tvg-logo="" group-title="LATINOS SD ",Claro Cinema
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/75
+#EXTINF:-1 tvg-id="" tvg-name="Claro Musica" tvg-logo="" group-title="LATINOS SD ",Claro Musica
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/76
+#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="" group-title="LATINOS SD ",Concert Channel
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/77
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="LATINOS SD ",Discovery Channel
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/78
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="" group-title="LATINOS SD ",Discovery Civilization
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/79
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="" group-title="LATINOS SD ",Discovery Home & Health
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/80
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="LATINOS SD ",Discovery Kids
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/81
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="LATINOS SD ",Discovery Science
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/82
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="LATINOS SD ",Discovery Turbo
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/83
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="" group-title="LATINOS SD ",Disney
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/84
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="LATINOS SD ",Disney JR
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/85
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="LATINOS SD ",Disney XD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/86
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="LATINOS SD ",E!
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/87
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="LATINOS SD ",ESPN
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/88
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  +" tvg-logo="" group-title="LATINOS SD ",ESPN  +
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/89
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="" group-title="LATINOS SD ",ESPN 3
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/90
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2" tvg-logo="" group-title="LATINOS SD ",ESPN2
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/91
+#EXTINF:-1 tvg-id="" tvg-name="EURO Channel" tvg-logo="" group-title="LATINOS SD ",EURO Channel
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/92
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="" group-title="LATINOS SD ",EWTN
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/93
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="LATINOS SD ",El Gourmet
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/94
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="LATINOS SD ",FOX
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/95
+#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY" tvg-logo="" group-title="LATINOS SD ",FOX COMEDY
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/96
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" group-title="LATINOS SD ",FOX LIFE
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/97
+#EXTINF:-1 tvg-id="" tvg-name="FOX SERIES" tvg-logo="" group-title="LATINOS SD ",FOX SERIES
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/98
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2" tvg-logo="" group-title="LATINOS SD ",FOX Sports 2
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/99
+#EXTINF:-1 tvg-id="" tvg-name="FOX+ACT" tvg-logo="" group-title="LATINOS SD ",FOX+ACT
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/100
+#EXTINF:-1 tvg-id="" tvg-name="FOX+CLA" tvg-logo="" group-title="LATINOS SD ",FOX+CLA
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/101
+#EXTINF:-1 tvg-id="" tvg-name="FOX+FAM" tvg-logo="" group-title="LATINOS SD ",FOX+FAM
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/102
+#EXTINF:-1 tvg-id="" tvg-name="FOX+MOV" tvg-logo="" group-title="LATINOS SD ",FOX+MOV
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/103
+#EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="" group-title="LATINOS SD ",FUTV
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/104
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="LATINOS SD ",FX
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/105
+#EXTINF:-1 tvg-id="" tvg-name="FX Movies" tvg-logo="" group-title="LATINOS SD ",FX Movies
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/106
+#EXTINF:-1 tvg-id="" tvg-name="Fashion One" tvg-logo="" group-title="LATINOS SD ",Fashion One
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/107
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="" group-title="LATINOS SD ",Film & Arts
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/108
+#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="" group-title="LATINOS SD ",Fox News
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/109
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 3" tvg-logo="" group-title="LATINOS SD ",Fox Sport 3
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/110
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="" group-title="LATINOS SD ",Fox Sports
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/111
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="LATINOS SD ",Golden
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/112
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="" group-title="LATINOS SD ",Golf Channel
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/113
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="LATINOS SD ",H2
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/114
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="LATINOS SD ",HBO
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/115
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="LATINOS SD ",HBO Family
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/116
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="" group-title="LATINOS SD ",HBO Plus
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/117
+#EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="" group-title="LATINOS SD ",HBO2
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/118
+#EXTINF:-1 tvg-id="" tvg-name="Headline News" tvg-logo="" group-title="LATINOS SD ",Headline News
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/119
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="" group-title="LATINOS SD ",History Channel
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/120
+#EXTINF:-1 tvg-id="" tvg-name="Hola!TV" tvg-logo="" group-title="LATINOS SD ",Hola!TV
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/121
+#EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="" group-title="LATINOS SD ",ID
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/122
+#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="" group-title="LATINOS SD ",LIFE TIME
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/123
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="LATINOS SD ",MTV
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/124
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="LATINOS SD ",MTV Hits
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/125
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="" group-title="LATINOS SD ",Mas Chic
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/126
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime (Oeste)" tvg-logo="" group-title="LATINOS SD ",Max Prime (Oeste)
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/127
+#EXTINF:-1 tvg-id="" tvg-name="Multicinema" tvg-logo="" group-title="LATINOS SD ",Multicinema
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/128
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios" tvg-logo="" group-title="LATINOS SD ",Multimedios
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/129
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="" group-title="LATINOS SD ",Multipremier
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/130
+#EXTINF:-1 tvg-id="" tvg-name="NU MUSIC" tvg-logo="" group-title="LATINOS SD ",NU MUSIC
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/131
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids" tvg-logo="" group-title="LATINOS SD ",Nat Geo Kids
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/132
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="LATINOS SD ",Nat Geo Wild
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/133
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="LATINOS SD ",National Geographic
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/134
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="LATINOS SD ",Nick Jr
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/135
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="LATINOS SD ",Nickelodeon
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/136
+#EXTINF:-1 tvg-id="" tvg-name="PXTV" tvg-logo="" group-title="LATINOS SD ",PXTV
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/137
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="" group-title="LATINOS SD ",Paramount
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/138
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="" group-title="LATINOS SD ",SONY
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/139
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="" group-title="LATINOS SD ",SPACE
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/140
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="" group-title="LATINOS SD ",Studio Universal
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/141
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" tvg-logo="" group-title="LATINOS SD ",Sun Channel
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/142
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="" group-title="LATINOS SD ",SyFy
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/143
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="LATINOS SD ",TBS
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/144
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="LATINOS SD ",TCM
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/145
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="LATINOS SD ",TLC
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/146
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="LATINOS SD ",TNT
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/147
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="" group-title="LATINOS SD ",TNT Series
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/148
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="LATINOS SD ",Telemundo
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/149
+#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="" group-title="LATINOS SD ",Universal
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/150
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="LATINOS SD ",VH1
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/151
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="" group-title="LATINOS SD ",VH1 Classic
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/152
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="" group-title="LATINOS SD ",Warner
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/153
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="" group-title="LATINOS SD ",ZooMoo
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/154
+#EXTINF:-1 tvg-id="" tvg-name="LAT*11 - Repretel" tvg-logo="" group-title="PAISES SD",LAT*11 - Repretel
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/155
+#EXTINF:-1 tvg-id="" tvg-name="LAT*13-Sinart" tvg-logo="" group-title="PAISES SD",LAT*13-Sinart
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/156
+#EXTINF:-1 tvg-id="" tvg-name="LAT*29 - VM Latino" tvg-logo="" group-title="PAISES SD",LAT*29 - VM Latino
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/157
+#EXTINF:-1 tvg-id="" tvg-name="LAT*42 - Extra TV 42" tvg-logo="" group-title="PAISES SD",LAT*42 - Extra TV 42
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/158
+#EXTINF:-1 tvg-id="" tvg-name="LAT*6 - Repretel" tvg-logo="" group-title="PAISES SD",LAT*6 - Repretel
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/159
+#EXTINF:-1 tvg-id="" tvg-name="LAT*7-Teletica" tvg-logo="" group-title="PAISES SD",LAT*7-Teletica
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/160
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Antena 7- RD" tvg-logo="" group-title="PAISES SD",LAT*Antena 7- RD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/161
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CCN" tvg-logo="" group-title="PAISES SD",LAT*CCN
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/162
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CDN2- RD" tvg-logo="" group-title="PAISES SD",LAT*CDN2- RD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/163
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CDN37 - RD" tvg-logo="" group-title="PAISES SD",LAT*CDN37 - RD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/164
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CERTV" tvg-logo="" group-title="PAISES SD",LAT*CERTV
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/165
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal  21 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal  21 - ESA
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/166
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 10 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 10 - NIC
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/167
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 11 - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal 11 - GUA
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/168
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 12 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 12 - ESA
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/169
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 12 - NI" tvg-logo="" group-title="PAISES SD",LAT*Canal 12 - NI
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/170
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 13 - PAN" tvg-logo="" group-title="PAISES SD",LAT*Canal 13 - PAN
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/171
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 13-GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal 13-GUA
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/172
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 14 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 14 - NIC
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/173
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 19  ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 19  ESA
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/174
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 2 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 2 - ESA
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/175
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 2 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 2 - NIC
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/176
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 2 - PAN" tvg-logo="" group-title="PAISES SD",LAT*Canal 2 - PAN
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/177
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 3 - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal 3 - GUA
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/178
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 4 - ESA
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/179
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 4 - NIC
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/180
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - PAN" tvg-logo="" group-title="PAISES SD",LAT*Canal 4 - PAN
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/181
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 6 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 6 - ESA
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/182
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 6 - NI" tvg-logo="" group-title="PAISES SD",LAT*Canal 6 - NI
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/183
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 7 - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal 7 - GUA
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/184
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 8 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 8 - NIC
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/185
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Antigua - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal Antigua - GUA
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/186
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Azteca - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal Azteca - GUA
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/187
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Digital 15 - RD" tvg-logo="" group-title="PAISES SD",LAT*Digital 15 - RD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/188
+#EXTINF:-1 tvg-id="" tvg-name="LAT*NEXT - PAN" tvg-logo="" group-title="PAISES SD",LAT*NEXT - PAN
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/189
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TV  Max - PAN" tvg-logo="" group-title="PAISES SD",LAT*TV  Max - PAN
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/190
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TVChile" tvg-logo="" group-title="PAISES SD",LAT*TVChile
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/191
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TVE" tvg-logo="" group-title="PAISES SD",LAT*TVE
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/192
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TVM25 -  ESA" tvg-logo="" group-title="PAISES SD",LAT*TVM25 -  ESA
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/193
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Tele Antillas - RD" tvg-logo="" group-title="PAISES SD",LAT*Tele Antillas - RD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/194
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TeleMicro - RD" tvg-logo="" group-title="PAISES SD",LAT*TeleMicro - RD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/195
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Telecentro - RD" tvg-logo="" group-title="PAISES SD",LAT*Telecentro - RD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/196
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Telesistema RD" tvg-logo="" group-title="PAISES SD",LAT*Telesistema RD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/197
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Teleunion - RD" tvg-logo="" group-title="PAISES SD",LAT*Teleunion - RD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/198
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Teleuniverso - RD" tvg-logo="" group-title="PAISES SD",LAT*Teleuniverso - RD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/199
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Televida RD" tvg-logo="" group-title="PAISES SD",LAT*Televida RD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/200
+#EXTINF:-1 tvg-id="" tvg-name="LAT*VTV Canal 35 ESA" tvg-logo="" group-title="PAISES SD",LAT*VTV Canal 35 ESA
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/201
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CNN Internacional" tvg-logo="" group-title="PAISES SD",LAT*CNN Internacional
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/202
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CNNE" tvg-logo="" group-title="PAISES SD",LAT*CNNE
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/203
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="" group-title="24/7",24/7 CANTINFLAS
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/204
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the middle 2000" tvg-logo="" group-title="24/7",24/7 Malcolm in the middle 2000
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/205
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="" group-title="24/7",24/7 Dragon Ball Super
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/206
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Los Simpson" tvg-logo="" group-title="24/7",24/7  Los Simpson
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/207
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Thundercats" tvg-logo="" group-title="24/7",24/7 Thundercats
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/208
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Coyote y el Correcaminos" tvg-logo="" group-title="24/7",24/7 El Coyote y el Correcaminos
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/209
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa" tvg-logo="" group-title="24/7",24/7 La pantera rosa
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/210
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del 8" tvg-logo="" group-title="24/7",24/7 El Chavo del 8
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/211
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/212
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS 1991" tvg-logo="" group-title="24/7",24/7  DINOSAURIOS 1991
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/213
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Dragon Ball 1984" tvg-logo="" group-title="24/7",24/7  Dragon Ball 1984
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/214
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT 1996" tvg-logo="" group-title="24/7",24/7 Dragon Ball GT 1996
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/215
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z 1989" tvg-logo="" group-title="24/7",24/7 Dragon Ball Z 1989
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/216
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="" group-title="24/7",24/7 EL CHAPULIN COLORADO
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/217
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los locos Addams" tvg-logo="" group-title="24/7",24/7 Los locos Addams
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/218
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Familia Monster 1964" tvg-logo="" group-title="24/7",24/7 La Familia Monster 1964
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/219
+#EXTINF:-1 tvg-id="" tvg-name="Sonic: la pelÃ­cula (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYbANSoj6qGTbDkstq9J5Vy8fRF.jpg" group-title="2020",Sonic: la pelÃ­cula (2020)
+http://zufreelist.net:8080/movie/yATw4JHqTH/p7TdW1ufJD/397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sqmgVUKelFlDasWsdX0SV6c0Fq.jpg" group-title="2020",Bad Boy (2020)
+http://zufreelist.net:8080/movie/yATw4JHqTH/p7TdW1ufJD/398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Onward (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHWeWBBOlkPYdlZcjSKeToQvgZg.jpg" group-title="2020",Onward (2020)
+http://zufreelist.net:8080/movie/yATw4JHqTH/p7TdW1ufJD/399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la piedra filosofal (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" group-title="Harry Potter",Harry Potter y la piedra filosofal (2001)
+http://zufreelist.net:8080/movie/yATw4JHqTH/p7TdW1ufJD/400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el prisionero de Azkaban - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" group-title="Harry Potter",Harry Potter y el prisionero de Azkaban - 2004
+http://zufreelist.net:8080/movie/yATw4JHqTH/p7TdW1ufJD/401.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la Orden del FÃ©nix (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5bL1z1ZOAKBkvbOhVQp6GfBv4u.jpg" group-title="Harry Potter",Harry Potter y la Orden del FÃ©nix (2007)
+http://zufreelist.net:8080/movie/yATw4JHqTH/p7TdW1ufJD/402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el misterio del prÃ­ncipe (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSb3nNiL6pOEDK34T0U6RKTGzlJ.jpg" group-title="Harry Potter",Harry Potter y el misterio del prÃ­ncipe (2009)
+http://zufreelist.net:8080/movie/yATw4JHqTH/p7TdW1ufJD/403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el cÃ¡liz de fuego (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg" group-title="Harry Potter",Harry Potter y el cÃ¡liz de fuego (2005)
+http://zufreelist.net:8080/movie/yATw4JHqTH/p7TdW1ufJD/404.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la cÃ¡mara secreta (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg" group-title="Harry Potter",Harry Potter y la cÃ¡mara secreta (2002)
+http://zufreelist.net:8080/movie/yATw4JHqTH/p7TdW1ufJD/405.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg" group-title="Harry Potter",Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)
+http://zufreelist.net:8080/movie/yATw4JHqTH/p7TdW1ufJD/406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las Reliquias de la Muerte - Parte 1 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYyoJ4Yadk0MCBHZPFrgvMDl50o.jpg" group-title="Harry Potter",Harry Potter y las Reliquias de la Muerte - Parte 1 (2010)
+http://zufreelist.net:8080/movie/yATw4JHqTH/p7TdW1ufJD/407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="" group-title="ESPAÃ‘A",EUROSPORT 2
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/408
+#EXTINF:-1 tvg-id="" tvg-name="CRIME&INVESTIGATION" tvg-logo="" group-title="ESPAÃ‘A",CRIME&INVESTIGATION
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/409
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="ESPAÃ‘A",COMEDY CENTRAL
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/410
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="ESPAÃ‘A",AMC
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/411
+#EXTINF:-1 tvg-id="" tvg-name="TOROS HD" tvg-logo="" group-title="ESPAÃ‘A",TOROS HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/412
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="ESPAÃ‘A",TNT
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/413
+#EXTINF:-1 tvg-id="" tvg-name="TAQ 6" tvg-logo="" group-title="ESPAÃ‘A",TAQ 6
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/414
+#EXTINF:-1 tvg-id="" tvg-name="TAQ 5" tvg-logo="" group-title="ESPAÃ‘A",TAQ 5
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/415
+#EXTINF:-1 tvg-id="" tvg-name="TAQ 4" tvg-logo="" group-title="ESPAÃ‘A",TAQ 4
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/416
+#EXTINF:-1 tvg-id="" tvg-name="TAQ 3" tvg-logo="" group-title="ESPAÃ‘A",TAQ 3
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/417
+#EXTINF:-1 tvg-id="" tvg-name="TAQ 2" tvg-logo="" group-title="ESPAÃ‘A",TAQ 2
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/418
+#EXTINF:-1 tvg-id="" tvg-name="TAQ 1" tvg-logo="" group-title="ESPAÃ‘A",TAQ 1
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/419
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="ESPAÃ‘A",SYFY HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/420
+#EXTINF:-1 tvg-id="" tvg-name="SERIES HD" tvg-logo="" group-title="ESPAÃ‘A",SERIES HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/421
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="ESPAÃ‘A",NATIONAL GEOGRAPHIC HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/422
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="ESPAÃ‘A",NAT GEO WILD HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/423
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="ESPAÃ‘A",MTV
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/424
+#EXTINF:-1 tvg-id="" tvg-name="MOTOGP" tvg-logo="" group-title="ESPAÃ‘A",MOTOGP
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/425
+#EXTINF:-1 tvg-id="" tvg-name="LIGA CAMPEONES" tvg-logo="" group-title="ESPAÃ‘A",LIGA CAMPEONES
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/426
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV HD" tvg-logo="" group-title="ESPAÃ‘A",LA LIGA TV HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/427
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA HD" tvg-logo="" group-title="ESPAÃ‘A",HISTORIA HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/428
+#EXTINF:-1 tvg-id="" tvg-name="GOLTV" tvg-logo="" group-title="ESPAÃ‘A",GOLTV
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/429
+#EXTINF:-1 tvg-id="" tvg-name="GOLF HD" tvg-logo="" group-title="ESPAÃ‘A",GOLF HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/430
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="ESPAÃ‘A",FOX HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/431
+#EXTINF:-1 tvg-id="" tvg-name="FORMULA 1" tvg-logo="" group-title="ESPAÃ‘A",FORMULA 1
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/432
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT HD" tvg-logo="" group-title="ESPAÃ‘A",EUROSPORT HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/433
+#EXTINF:-1 tvg-id="" tvg-name="ESTRENOS HD" tvg-logo="" group-title="ESPAÃ‘A",ESTRENOS HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/434
+#EXTINF:-1 tvg-id="" tvg-name="DRAMA" tvg-logo="" group-title="ESPAÃ‘A",DRAMA
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/435
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="ESPAÃ‘A",DMAX
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/436
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD" tvg-logo="" group-title="ESPAÃ‘A",DEPORTES HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/437
+#EXTINF:-1 tvg-id="" tvg-name="COMEDIA HD" tvg-logo="" group-title="ESPAÃ‘A",COMEDIA HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/438
+#EXTINF:-1 tvg-id="" tvg-name="COCINA" tvg-logo="" group-title="ESPAÃ‘A",COCINA
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/439
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="" group-title="ESPAÃ‘A",CAZA Y PESCA
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/440
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="" group-title="ESPAÃ‘A",CALLE 13
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/441
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT HD" tvg-logo="" group-title="ESPAÃ‘A",BEIN SPORT HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/442
+#EXTINF:-1 tvg-id="" tvg-name="BEIN LA LIGA HD" tvg-logo="" group-title="ESPAÃ‘A",BEIN LA LIGA HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/443
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="ESPAÃ‘A",AXN WHITE HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/444
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="ESPAÃ‘A",AXN HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/445
+#EXTINF:-1 tvg-id="" tvg-name="ACCION HD" tvg-logo="" group-title="ESPAÃ‘A",ACCION HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/446
+#EXTINF:-1 tvg-id="" tvg-name="#V" tvg-logo="" group-title="ESPAÃ‘A",#V
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/447
+#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="" group-title="ESPAÃ‘A",#0 HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/448
+#EXTINF:-1 tvg-id="" tvg-name="VIAJAR HD" tvg-logo="" group-title="ESPAÃ‘A",VIAJAR HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/449
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="ESPAÃ‘A",TCM HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/450
+#EXTINF:-1 tvg-id="" tvg-name="DOC&ROLL HD" tvg-logo="" group-title="ESPAÃ‘A",DOC&ROLL HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/451
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="ESPAÃ‘A",A&E
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/452
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="" group-title="ESPAÃ‘A",HOLLYWOOD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/453
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 2 HD" tvg-logo="" group-title="ESPAÃ‘A",Sky Sport Bundesliga 2 HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/454
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="" group-title="ESPAÃ‘A",Sky Sport Bundesliga 1 HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/455
+#EXTINF:-1 tvg-id="" tvg-name="LAT*A&E HD" tvg-logo="" group-title="LATINOS HD",LAT*A&E HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/457
+#EXTINF:-1 tvg-id="" tvg-name="LAT*AMC HD" tvg-logo="" group-title="LATINOS HD",LAT*AMC HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/458
+#EXTINF:-1 tvg-id="" tvg-name="LAT*AXN HD" tvg-logo="" group-title="LATINOS HD",LAT*AXN HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/459
+#EXTINF:-1 tvg-id="" tvg-name="LAT*AZ click HD" tvg-logo="" group-title="LATINOS HD",LAT*AZ click HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/460
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Animal Planet HD" tvg-logo="" group-title="LATINOS HD",LAT*Animal Planet HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/461
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CARTOON NT HD" tvg-logo="" group-title="LATINOS HD",LAT*CARTOON NT HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/462
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CINECANAL HD" tvg-logo="" group-title="LATINOS HD",LAT*CINECANAL HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/463
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Claro HD" tvg-logo="" group-title="LATINOS HD",LAT*Canal Claro HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/464
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Claro Sports HD" tvg-logo="" group-title="LATINOS HD",LAT*Claro Sports HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/465
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Comedy Central HD" tvg-logo="" group-title="LATINOS HD",LAT*Comedy Central HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/466
+#EXTINF:-1 tvg-id="" tvg-name="LAT*DHE HD" tvg-logo="" group-title="LATINOS HD",LAT*DHE HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/467
+#EXTINF:-1 tvg-id="" tvg-name="LAT*DISCOVERY THEATHER HD" tvg-logo="" group-title="LATINOS HD",LAT*DISCOVERY THEATHER HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/468
+#EXTINF:-1 tvg-id="" tvg-name="LAT*E! Entertairment HD" tvg-logo="" group-title="LATINOS HD",LAT*E! Entertairment HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/469
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Europa HD" tvg-logo="" group-title="LATINOS HD",LAT*Europa HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/470
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Action HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX Action HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/471
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Family HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX Family HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/472
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/473
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Movies HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX Movies HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/474
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Series HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX Series HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/475
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FX HD" tvg-logo="" group-title="LATINOS HD",LAT*FX HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/476
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FX Movies HD" tvg-logo="" group-title="LATINOS HD",LAT*FX Movies HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/477
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Film & arts HD" tvg-logo="" group-title="LATINOS HD",LAT*Film & arts HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/478
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Golf Channel HD" tvg-logo="" group-title="LATINOS HD",LAT*Golf Channel HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/479
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO Family HD" tvg-logo="" group-title="LATINOS HD",LAT*HBO Family HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/480
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO HD" tvg-logo="" group-title="LATINOS HD",LAT*HBO HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/481
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO Plus HD" tvg-logo="" group-title="LATINOS HD",LAT*HBO Plus HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/482
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO2 HD" tvg-logo="" group-title="LATINOS HD",LAT*HBO2 HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/483
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HOLA! TV HD" tvg-logo="" group-title="LATINOS HD",LAT*HOLA! TV HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/484
+#EXTINF:-1 tvg-id="" tvg-name="LAT*History HD" tvg-logo="" group-title="LATINOS HD",LAT*History HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/485
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Home & Health HD" tvg-logo="" group-title="LATINOS HD",LAT*Home & Health HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/486
+#EXTINF:-1 tvg-id="" tvg-name="LAT*MTV HD" tvg-logo="" group-title="LATINOS HD",LAT*MTV HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/487
+#EXTINF:-1 tvg-id="" tvg-name="LAT*MTV SIM HD" tvg-logo="" group-title="LATINOS HD",LAT*MTV SIM HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/488
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Max Prime HD" tvg-logo="" group-title="LATINOS HD",LAT*Max Prime HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/489
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Nick 2 HD" tvg-logo="" group-title="LATINOS HD",LAT*Nick 2 HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/490
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Nick SIM HD" tvg-logo="" group-title="LATINOS HD",LAT*Nick SIM HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/491
+#EXTINF:-1 tvg-id="" tvg-name="LAT*SONY HD" tvg-logo="" group-title="LATINOS HD",LAT*SONY HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/492
+#EXTINF:-1 tvg-id="" tvg-name="LAT*SPACE HD" tvg-logo="" group-title="LATINOS HD",LAT*SPACE HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/493
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Studio Universal HD" tvg-logo="" group-title="LATINOS HD",LAT*Studio Universal HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/494
+#EXTINF:-1 tvg-id="" tvg-name="LAT*SyFy HD" tvg-logo="" group-title="LATINOS HD",LAT*SyFy HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/495
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TNT HD" tvg-logo="" group-title="LATINOS HD",LAT*TNT HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/496
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Telemundo HD" tvg-logo="" group-title="LATINOS HD",LAT*Telemundo HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/497
+#EXTINF:-1 tvg-id="" tvg-name="LAT*VH1 HD" tvg-logo="" group-title="LATINOS HD",LAT*VH1 HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/498
+#EXTINF:-1 tvg-id="" tvg-name="LAT*WARNER HD" tvg-logo="" group-title="LATINOS HD",LAT*WARNER HD
+http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/499
+#EXTINF:-1 tvg-id="" tvg-name="Spenser: confidencial (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7lkcv6meB7ueTz3iFFhsmcnEey.jpg" group-title="2020",Spenser: confidencial (2020)
+http://zufreelist.net:8080/movie/yATw4JHqTH/p7TdW1ufJD/500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coronavirus: El virus que paraliza la mundo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6sDwNdtKq0sp8mI7vlhpizJzRa.jpg" group-title="2020",Coronavirus: El virus que paraliza la mundo (2020)
+http://zufreelist.net:8080/movie/yATw4JHqTH/p7TdW1ufJD/501.mkv
+
 #EXTINF:-1,--- LISTA GRATIS achoapps.com
 http://www.achotv.com
 #EXTINF:-1,--- Visita www.achoapps.com ---
@@ -494,3 +1045,323 @@ http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/u3-0ZnHM4GY/hqdefault.jpg" group-title="PUERTO RICO",WORO-TV Teleoro Canal 13*
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPR0008&mode=12
+
+
+
+
+#EXTINF:-1 tvg-id="bht1.ba" tvg-name="BHT 1" tvg-logo="" group-title="TELINEA TV",BHT 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/889
+#EXTINF:-1 tvg-id="ftv.ba" tvg-name="FTV" tvg-logo="" group-title="TELINEA TV",FTV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/864
+#EXTINF:-1 tvg-id="rtrs.rs" tvg-name="RTRS" tvg-logo="" group-title="TELINEA TV",RTRS
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/771
+#EXTINF:-1 tvg-id="" tvg-name="RTV USK" tvg-logo="" group-title="TELINEA TV",RTV USK
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/762
+#EXTINF:-1 tvg-id="" tvg-name="RTV CAZIN" tvg-logo="" group-title="TELINEA TV",RTV CAZIN
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/765
+#EXTINF:-1 tvg-id="atv.ba" tvg-name="ATV" tvg-logo="" group-title="TELINEA TV",ATV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/892
+#EXTINF:-1 tvg-id="facetv.ba" tvg-name="FACE TV" tvg-logo="" group-title="TELINEA TV",FACE TV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/869
+#EXTINF:-1 tvg-id="hayat.ba" tvg-name="HAYAT BH" tvg-logo="" group-title="TELINEA TV",HAYAT BH
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/861
+#EXTINF:-1 tvg-id="happytv.rs" tvg-name="HAPPY" tvg-logo="" group-title="TELINEA TV",HAPPY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/862
+#EXTINF:-1 tvg-id="otvvalentino.ba" tvg-name="OTV VALENTINO" tvg-logo="" group-title="TELINEA TV",OTV VALENTINO
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/837
+#EXTINF:-1 tvg-id="BN.bn" tvg-name="BN TV" tvg-logo="" group-title="TELINEA TV",BN TV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/886
+#EXTINF:-1 tvg-id="rts1.rs" tvg-name="RTS1" tvg-logo="" group-title="TELINEA TV",RTS1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/767
+#EXTINF:-1 tvg-id="rts2.rs" tvg-name="RTS2" tvg-logo="" group-title="TELINEA TV",RTS2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/766
+#EXTINF:-1 tvg-id="" tvg-name="BN MUSIC" tvg-logo="" group-title="TELINEA TV",BN MUSIC
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/887
+#EXTINF:-1 tvg-id="htv1.hr" tvg-name="HRT 1" tvg-logo="" group-title="TELINEA TV",HRT 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/854
+#EXTINF:-1 tvg-id="htv2.hr" tvg-name="HRT2" tvg-logo="" group-title="TELINEA TV",HRT2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/852
+#EXTINF:-1 tvg-id="obn.ba" tvg-name="OBN" tvg-logo="" group-title="TELINEA TV",OBN
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/839
+#EXTINF:-1 tvg-id="" tvg-name="DMSAT" tvg-logo="" group-title="TELINEA TV",DMSAT
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/876
+#EXTINF:-1 tvg-id="hayatfolk.ba" tvg-name="HAYAT FOLK" tvg-logo="" group-title="TELINEA TV",HAYAT FOLK
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/860
+#EXTINF:-1 tvg-id="rtl.hr" tvg-name="RTL HRVATSKA" tvg-logo="" group-title="TELINEA TV",RTL HRVATSKA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/778
+#EXTINF:-1 tvg-id="rtl2.hr" tvg-name="RTL 2 HRVATSKA" tvg-logo="" group-title="TELINEA TV",RTL 2 HRVATSKA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/780
+#EXTINF:-1 tvg-id="domatv.hr" tvg-name="DOMA TV" tvg-logo="" group-title="TELINEA TV",DOMA TV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/875
+#EXTINF:-1 tvg-id="aljazeerabalkans.ba" tvg-name="ALJAZEERA BALKANS" tvg-logo="" group-title="TELINEA TV",ALJAZEERA BALKANS
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/900
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="TELINEA TV",CNN
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/881
+#EXTINF:-1 tvg-id="nationalgeographic.hr" tvg-name="NAT GEOGRAPHIC" tvg-logo="" group-title="TELINEA TV",NAT GEOGRAPHIC
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/842
+#EXTINF:-1 tvg-id="natgeowild.hr" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="" group-title="TELINEA TV",NATIONAL GEOGRAPHIC WILD
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/841
+#EXTINF:-1 tvg-id="viasathistory.hr" tvg-name="VIASAT HISTORY" tvg-logo="" group-title="TELINEA TV",VIASAT HISTORY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/745
+#EXTINF:-1 tvg-id="viasatexplore.hr" tvg-name="VIASAT EXPLORER" tvg-logo="" group-title="TELINEA TV",VIASAT EXPLORER
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/746
+#EXTINF:-1 tvg-id="viasatnature.hr" tvg-name="VIASAT NATURE" tvg-logo="" group-title="TELINEA TV",VIASAT NATURE
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/744
+#EXTINF:-1 tvg-id="discoverychannel.rs" tvg-name="DISCOVERY" tvg-logo="" group-title="TELINEA TV",DISCOVERY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/880
+#EXTINF:-1 tvg-id="discoveryidxtra.rs" tvg-name="DISCOVERY IDXTRA" tvg-logo="" group-title="TELINEA TV",DISCOVERY IDXTRA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/878
+#EXTINF:-1 tvg-id="tlc.hr" tvg-name="TLC" tvg-logo="" group-title="TELINEA TV",TLC
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/753
+#EXTINF:-1 tvg-id="animalplanet.rs" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="TELINEA TV",ANIMAL PLANET
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/899
+#EXTINF:-1 tvg-id="24kitchen.rs" tvg-name="24 KITCHEN" tvg-logo="" group-title="TELINEA TV",24 KITCHEN
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/902
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL GERMANY" tvg-logo="" group-title="TELINEA TV",RTL GERMANY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/779
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL2 GERMANY" tvg-logo="" group-title="TELINEA TV",RTL2 GERMANY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/774
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="SUPER RTL" tvg-logo="" group-title="TELINEA TV",SUPER RTL
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/756
+#EXTINF:-1 tvg-id="kika.de" tvg-name="KIKA" tvg-logo="" group-title="TELINEA TV",KIKA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/845
+#EXTINF:-1 tvg-id="tvslovenija1.si" tvg-name="SLO1" tvg-logo="" group-title="TELINEA TV",SLO1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/759
+#EXTINF:-1 tvg-id="tvslovenija2.si" tvg-name="SLO 2" tvg-logo="" group-title="TELINEA TV",SLO 2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/760
+#EXTINF:-1 tvg-id="foxcrime.hr" tvg-name="FOX CRIME" tvg-logo="" group-title="TELINEA TV",FOX CRIME
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/866
+#EXTINF:-1 tvg-id="foxlife.hr" tvg-name="FOX LIFE" tvg-logo="" group-title="TELINEA TV",FOX LIFE
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/865
+#EXTINF:-1 tvg-id="fox.hr" tvg-name="FOX CHANNEL" tvg-logo="" group-title="TELINEA TV",FOX CHANNEL
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/867
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="PRO7" tvg-logo="" group-title="TELINEA TV",PRO7
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/783
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX" tvg-logo="" group-title="TELINEA TV",VOX
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/742
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="TELINEA TV",VH1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/748
+#EXTINF:-1 tvg-id="vh1classic.de" tvg-name="VH1 CLASSIC" tvg-logo="" group-title="TELINEA TV",VH1 CLASSIC
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/747
+#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="MTV ADRIA" tvg-logo="" group-title="TELINEA TV",MTV ADRIA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/844
+#EXTINF:-1 tvg-id="cmc.rs" tvg-name="CMC" tvg-logo="" group-title="TELINEA TV",CMC
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/882
+#EXTINF:-1 tvg-id="eurosport1.hr" tvg-name="EUROSPORT 1" tvg-logo="" group-title="TELINEA TV",EUROSPORT 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/871
+#EXTINF:-1 tvg-id="fox.hr" tvg-name="EUROSPORT 2" tvg-logo="" group-title="TELINEA TV",EUROSPORT 2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/870
+#EXTINF:-1 tvg-id="arenasport1.rs" tvg-name="ARENA SPORT 1" tvg-logo="" group-title="TELINEA TV",ARENA SPORT 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/898
+#EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="ARENA SPORT1 HR" tvg-logo="" group-title="TELINEA TV",ARENA SPORT1 HR
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/893
+#EXTINF:-1 tvg-id="arenasport2.rs" tvg-name="ARENA SPORT 2" tvg-logo="" group-title="TELINEA TV",ARENA SPORT 2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/897
+#EXTINF:-1 tvg-id="arenasport3.hr" tvg-name="ARENA SPORT 3" tvg-logo="" group-title="TELINEA TV",ARENA SPORT 3
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/896
+#EXTINF:-1 tvg-id="arenasport4.rs" tvg-name="ARENA SPORT 4" tvg-logo="" group-title="TELINEA TV",ARENA SPORT 4
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/895
+#EXTINF:-1 tvg-id="arenasport5.rs" tvg-name="ARENA SPORT 5" tvg-logo="" group-title="TELINEA TV",ARENA SPORT 5
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/894
+#EXTINF:-1 tvg-id="sportskatv.hr" tvg-name="SPORTSKA TV" tvg-logo="" group-title="TELINEA TV",SPORTSKA TV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/757
+#EXTINF:-1 tvg-id="" tvg-name="TELEVIZIJA 5 HD" tvg-logo="" group-title="TELINEA TV",TELEVIZIJA 5 HD
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/755
+#EXTINF:-1 tvg-id="" tvg-name="IZVORNA TV" tvg-logo="" group-title="TELINEA TV",IZVORNA TV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/847
+#EXTINF:-1 tvg-id="hayatovci.ba" tvg-name="HAYATOVCI" tvg-logo="" group-title="TELINEA TV",HAYATOVCI
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/855
+#EXTINF:-1 tvg-id="rtlkockica.hr" tvg-name="RTL KOCKICA" tvg-logo="" group-title="TELINEA TV",RTL KOCKICA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/777
+#EXTINF:-1 tvg-id="htv3.hr" tvg-name="HRT3" tvg-logo="" group-title="TELINEA TV",HRT3
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/850
+#EXTINF:-1 tvg-id="rtssat.hr" tvg-name="RTS SAT" tvg-logo="" group-title="TELINEA TV",RTS SAT
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/768
+#EXTINF:-1 tvg-id="" tvg-name="RTRS PLUS" tvg-logo="" group-title="TELINEA TV",RTRS PLUS
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/770
+#EXTINF:-1 tvg-id="" tvg-name="NTV 101" tvg-logo="" group-title="TELINEA TV",NTV 101
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/848
+#EXTINF:-1 tvg-id="" tvg-name="RTV HIT" tvg-logo="" group-title="TELINEA TV",RTV HIT
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/764
+#EXTINF:-1 tvg-id="" tvg-name="RTL LIVING" tvg-logo="" group-title="TELINEA TV",RTL LIVING
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/776
+#EXTINF:-1 tvg-id="hayatplus.ba" tvg-name="HAYAT PLUS" tvg-logo="" group-title="TELINEA TV",HAYAT PLUS
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/858
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV" tvg-logo="" group-title="TELINEA TV",N-TV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/843
+#EXTINF:-1 tvg-id="pinkworldcinema.rs" tvg-name="PINK WORLD" tvg-logo="" group-title="TELINEA TV",PINK WORLD
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/787
+#EXTINF:-1 tvg-id="" tvg-name="HAYAT MUSIC" tvg-logo="" group-title="TELINEA TV",HAYAT MUSIC
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/859
+#EXTINF:-1 tvg-id="" tvg-name="PINKNROLL" tvg-logo="" group-title="TELINEA TV",PINKNROLL
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/784
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="RTL NITRO" tvg-logo="" group-title="TELINEA TV",RTL NITRO
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/775
+#EXTINF:-1 tvg-id="discoveryscience.hr" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="TELINEA TV",DISCOVERY SCIENCE
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/877
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF" tvg-logo="" group-title="TELINEA TV",ZDF
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/741
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="KABEL 1" tvg-logo="" group-title="TELINEA TV",KABEL 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/846
+#EXTINF:-1 tvg-id="pink1.rs" tvg-name="PINK 1" tvg-logo="" group-title="TELINEA TV",PINK 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/836
+#EXTINF:-1 tvg-id="pink2.rs" tvg-name="PINK 2" tvg-logo="" group-title="TELINEA TV",PINK 2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/835
+#EXTINF:-1 tvg-id="pink3.rs" tvg-name="PINK 3" tvg-logo="" group-title="TELINEA TV",PINK 3
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/834
+#EXTINF:-1 tvg-id="pinkaction.rs" tvg-name="PINK ACTION" tvg-logo="" group-title="TELINEA TV",PINK ACTION
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/833
+#EXTINF:-1 tvg-id="" tvg-name="PINK BRAVO" tvg-logo="" group-title="TELINEA TV",PINK BRAVO
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/832
+#EXTINF:-1 tvg-id="pinkclassic.rs" tvg-name="PINK CLASSIC" tvg-logo="" group-title="TELINEA TV",PINK CLASSIC
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/831
+#EXTINF:-1 tvg-id="pinkcomedy.rs" tvg-name="PINK COMEDY" tvg-logo="" group-title="TELINEA TV",PINK COMEDY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/830
+#EXTINF:-1 tvg-id="pinkcrimeandmystery.rs" tvg-name="PINK CRIME & MYSTERY" tvg-logo="" group-title="TELINEA TV",PINK CRIME & MYSTERY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/829
+#EXTINF:-1 tvg-id="pinkerotic.rs" tvg-name="PINK EROTIC 1" tvg-logo="" group-title="FOR ADULTS",PINK EROTIC 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/828
+#EXTINF:-1 tvg-id="pinkerotic2.rs" tvg-name="PINK EROTIC 2" tvg-logo="" group-title="FOR ADULTS",PINK EROTIC 2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/827
+#EXTINF:-1 tvg-id="pinkerotic3.rs" tvg-name="PINK EROTIC 3" tvg-logo="" group-title="FOR ADULTS",PINK EROTIC 3
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/826
+#EXTINF:-1 tvg-id="pinkerotic4.rs" tvg-name="PINK EROTIC 4" tvg-logo="" group-title="FOR ADULTS",PINK EROTIC 4
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/825
+#EXTINF:-1 tvg-id="pinkerotic5.rs" tvg-name="PINK EROTIC 5" tvg-logo="" group-title="FOR ADULTS",PINK EROTIC 5
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/824
+#EXTINF:-1 tvg-id="pinkerotic6.rs" tvg-name="PINK EROTIC 6" tvg-logo="" group-title="FOR ADULTS",PINK EROTIC 6
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/823
+#EXTINF:-1 tvg-id="pinkerotic7.rs" tvg-name="PINK EROTIC 7" tvg-logo="" group-title="FOR ADULTS",PINK EROTIC 7
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/822
+#EXTINF:-1 tvg-id="pinkerotic8.rs" tvg-name="PINK EROTIC 8" tvg-logo="" group-title="FOR ADULTS",PINK EROTIC 8
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/821
+#EXTINF:-1 tvg-id="pinkextra.rs" tvg-name="PINK EXTRA" tvg-logo="" group-title="TELINEA TV",PINK EXTRA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/820
+#EXTINF:-1 tvg-id="pinkfamily.rs" tvg-name="PINK FAMILY" tvg-logo="" group-title="TELINEA TV",PINK FAMILY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/819
+#EXTINF:-1 tvg-id="pinkfashion.rs" tvg-name="PINK FASHION" tvg-logo="" group-title="TELINEA TV",PINK FASHION
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/818
+#EXTINF:-1 tvg-id="fightchannel.hr" tvg-name="PINK FIGHT NETWORK" tvg-logo="" group-title="TELINEA TV",PINK FIGHT NETWORK
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/817
+#EXTINF:-1 tvg-id="pinkfilm.rs" tvg-name="PINK FILM" tvg-logo="" group-title="TELINEA TV",PINK FILM
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/816
+#EXTINF:-1 tvg-id="" tvg-name="PINK FOLK 1" tvg-logo="" group-title="TELINEA TV",PINK FOLK 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/815
+#EXTINF:-1 tvg-id="" tvg-name="PINK FOLK 2" tvg-logo="" group-title="TELINEA TV",PINK FOLK 2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/814
+#EXTINF:-1 tvg-id="" tvg-name="PINK HAHA" tvg-logo="" group-title="TELINEA TV",PINK HAHA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/813
+#EXTINF:-1 tvg-id="" tvg-name="PINK HITS" tvg-logo="" group-title="TELINEA TV",PINK HITS
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/812
+#EXTINF:-1 tvg-id="" tvg-name="PINK HITS2" tvg-logo="" group-title="TELINEA TV",PINK HITS2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/811
+#EXTINF:-1 tvg-id="pinkhorror.rs" tvg-name="PINK HORROR" tvg-logo="" group-title="TELINEA TV",PINK HORROR
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/810
+#EXTINF:-1 tvg-id="pinkkids.rs" tvg-name="PINK KIDS" tvg-logo="" group-title="TELINEA TV",PINK KIDS
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/809
+#EXTINF:-1 tvg-id="" tvg-name="PINK KONCERT" tvg-logo="" group-title="TELINEA TV",PINK KONCERT
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/808
+#EXTINF:-1 tvg-id="pinkkuvar.rs" tvg-name="PINK KUVAR" tvg-logo="" group-title="TELINEA TV",PINK KUVAR
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/807
+#EXTINF:-1 tvg-id="" tvg-name="PINK LOL" tvg-logo="" group-title="TELINEA TV",PINK LOL
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/806
+#EXTINF:-1 tvg-id="pinkmovies.rs" tvg-name="PINK MOVIES" tvg-logo="" group-title="TELINEA TV",PINK MOVIES
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/805
+#EXTINF:-1 tvg-id="" tvg-name="PINK MUSIC" tvg-logo="" group-title="TELINEA TV",PINK MUSIC
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/804
+#EXTINF:-1 tvg-id="" tvg-name="PINK MUSIC2" tvg-logo="" group-title="TELINEA TV",PINK MUSIC2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/803
+#EXTINF:-1 tvg-id="" tvg-name="PINK PARADA" tvg-logo="" group-title="TELINEA TV",PINK PARADA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/801
+#EXTINF:-1 tvg-id="pinkpedia.rs" tvg-name="PINK PEDIA" tvg-logo="" group-title="TELINEA TV",PINK PEDIA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/800
+#EXTINF:-1 tvg-id="" tvg-name="PINK PLUS" tvg-logo="" group-title="TELINEA TV",PINK PLUS
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/799
+#EXTINF:-1 tvg-id="pinkpremium.rs" tvg-name="PINK PREMIUM" tvg-logo="" group-title="TELINEA TV",PINK PREMIUM
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/798
+#EXTINF:-1 tvg-id="pinkreality.rs" tvg-name="PINK REALITY" tvg-logo="" group-title="TELINEA TV",PINK REALITY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/797
+#EXTINF:-1 tvg-id="pinkromance.rs" tvg-name="PINK ROMANCE" tvg-logo="" group-title="TELINEA TV",PINK ROMANCE
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/796
+#EXTINF:-1 tvg-id="pinkscifiandfantasy.rs" tvg-name="PINK SCIFI & FANTASY" tvg-logo="" group-title="TELINEA TV",PINK SCIFI & FANTASY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/795
+#EXTINF:-1 tvg-id="pinkserije.rs" tvg-name="PINK SERIJE" tvg-logo="" group-title="TELINEA TV",PINK SERIJE
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/794
+#EXTINF:-1 tvg-id="pinkshow.rs" tvg-name="PINK SHOW" tvg-logo="" group-title="TELINEA TV",PINK SHOW
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/793
+#EXTINF:-1 tvg-id="pinksoap.rs" tvg-name="PINK SOAP" tvg-logo="" group-title="TELINEA TV",PINK SOAP
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/792
+#EXTINF:-1 tvg-id="pinkstyle.rs" tvg-name="PINK STYLE" tvg-logo="" group-title="TELINEA TV",PINK STYLE
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/791
+#EXTINF:-1 tvg-id="pinksuperkids.rs" tvg-name="PINK SUPER KIDS" tvg-logo="" group-title="TELINEA TV",PINK SUPER KIDS
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/790
+#EXTINF:-1 tvg-id="pinkthriller.rs" tvg-name="PINK THRILLER" tvg-logo="" group-title="TELINEA TV",PINK THRILLER
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/789
+#EXTINF:-1 tvg-id="pinkwestern.rs" tvg-name="PINK WESTERN" tvg-logo="" group-title="TELINEA TV",PINK WESTERN
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/788
+#EXTINF:-1 tvg-id="" tvg-name="PINK WORLD CINEMA" tvg-logo="" group-title="TELINEA TV",PINK WORLD CINEMA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/786
+#EXTINF:-1 tvg-id="pinkzabava.rs" tvg-name="PINK ZABAVA" tvg-logo="" group-title="TELINEA TV",PINK ZABAVA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/785
+#EXTINF:-1 tvg-id="" tvg-name="RT RUSSIA" tvg-logo="" group-title="TELINEA TV",RT RUSSIA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/781
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 1" tvg-logo="" group-title="TELINEA TV",SPORT 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/758
+#EXTINF:-1 tvg-id="" tvg-name="RT TODAY" tvg-logo="" group-title="TELINEA TV",RT TODAY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/782
+#EXTINF:-1 tvg-id="" tvg-name="TV SEHARA HD" tvg-logo="" group-title="TELINEA TV",TV SEHARA HD
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/903
+#EXTINF:-1 tvg-id="valentinoetno.ba" tvg-name="OTV ETNO TV" tvg-logo="" group-title="TELINEA TV",OTV ETNO TV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/905
+#EXTINF:-1 tvg-id="valentinofolk.ba" tvg-name="OTV FOLK TV" tvg-logo="" group-title="TELINEA TV",OTV FOLK TV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/904
+#EXTINF:-1 tvg-id="" tvg-name="BALKANIKA" tvg-logo="" group-title="TELINEA TV",BALKANIKA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/907
+#EXTINF:-1 tvg-id="" tvg-name="RSG RADIO" tvg-logo="" group-title="",RSG RADIO
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/908
+#EXTINF:-1 tvg-id="" tvg-name="RADIO MIX" tvg-logo="" group-title="",RADIO MIX
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/909
+#EXTINF:-1 tvg-id="" tvg-name="RADIO RTV USK" tvg-logo="" group-title="",RADIO RTV USK
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/910
+#EXTINF:-1 tvg-id="" tvg-name="BIG RADIO" tvg-logo="" group-title="",BIG RADIO
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/919
+#EXTINF:-1 tvg-id="" tvg-name="BOBAR RADIO" tvg-logo="" group-title="",BOBAR RADIO
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/918
+#EXTINF:-1 tvg-id="" tvg-name="RADIO BIR" tvg-logo="" group-title="",RADIO BIR
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/913
+#EXTINF:-1 tvg-id="" tvg-name="RADIO BN" tvg-logo="" group-title="",RADIO BN
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/914
+#EXTINF:-1 tvg-id="" tvg-name="RADIO KALMAN" tvg-logo="" group-title="",RADIO KALMAN
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/915
+#EXTINF:-1 tvg-id="" tvg-name="RADIO POSAVINA" tvg-logo="" group-title="",RADIO POSAVINA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/921
+#EXTINF:-1 tvg-id="" tvg-name="RADIO RTRS" tvg-logo="" group-title="",RADIO RTRS
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/917
+#EXTINF:-1 tvg-id="" tvg-name="VIP RADIO" tvg-logo="" group-title="",VIP RADIO
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/916
+#EXTINF:-1 tvg-id="" tvg-name="RADIO MIR" tvg-logo="" group-title="",RADIO MIR
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/922
+#EXTINF:-1 tvg-id="" tvg-name="RADIO 1 DOLENJSKA REGIJA" tvg-logo="" group-title="",RADIO 1 DOLENJSKA REGIJA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/929
+#EXTINF:-1 tvg-id="" tvg-name="RADIO 1 GORENJSKA" tvg-logo="" group-title="",RADIO 1 GORENJSKA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/925
+#EXTINF:-1 tvg-id="" tvg-name="RADIO 1 LJUBLJANA" tvg-logo="" group-title="",RADIO 1 LJUBLJANA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/924
+#EXTINF:-1 tvg-id="" tvg-name="RADIO 1 MARIBOR" tvg-logo="" group-title="",RADIO 1 MARIBOR
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/926
+#EXTINF:-1 tvg-id="" tvg-name="RADIO 1 OBALA" tvg-logo="" group-title="",RADIO 1 OBALA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/927
+#EXTINF:-1 tvg-id="" tvg-name="RADIO 1 PRIMORSKA" tvg-logo="" group-title="",RADIO 1 PRIMORSKA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/928
+#EXTINF:-1 tvg-id="" tvg-name="RADIO SI" tvg-logo="" group-title="",RADIO SI
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/937
+#EXTINF:-1 tvg-id="" tvg-name="RADIO SLO 1" tvg-logo="" group-title="",RADIO SLO 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/934
+#EXTINF:-1 tvg-id="" tvg-name="RADIO SLO 2" tvg-logo="" group-title="",RADIO SLO 2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/935
+#EXTINF:-1 tvg-id="" tvg-name="RADIO SLO 3" tvg-logo="" group-title="",RADIO SLO 3
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/936
+#EXTINF:-1 tvg-id="" tvg-name="K3 TV" tvg-logo="" group-title="TELINEA TV",K3 TV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/938
+#EXTINF:-1 tvg-id="" tvg-name="TV DOBOJ" tvg-logo="" group-title="TELINEA TV",TV DOBOJ
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/939
