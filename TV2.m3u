@@ -1,4 +1,273 @@
 #EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="24 Horas | El CHAVO DEL 8" tvg-name="24 HORAS | 31 MINUTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/31_minutos_logo.png" group-title="CANALES 24/7",24 HORAS | 31 MINUTOS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/30223.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | ALF" tvg-logo="" group-title="CANALES 24/7",24 HORAS | ALF
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23910.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | BARON ROJO" tvg-logo="" group-title="CANALES 24/7",24 HORAS | BARON ROJO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23909.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | BATMAN LA SERIE ANIMADA" tvg-logo="" group-title="CANALES 24/7",24 HORAS | BATMAN LA SERIE ANIMADA
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23869.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | BEN 10" tvg-logo="" group-title="CANALES 24/7",24 HORAS | BEN 10
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23908.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | BEN 10 FUERZA ALIENIGENA" tvg-logo="" group-title="CANALES 24/7",24 HORAS | BEN 10 FUERZA ALIENIGENA
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23854.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | BIRDMAN" tvg-logo="" group-title="CANALES 24/7",24 HORAS | BIRDMAN
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23880.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | BOB ESPONJA" tvg-logo="" group-title="CANALES 24/7",24 HORAS | BOB ESPONJA
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23815.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | BOB ESPONJA op2" tvg-logo="" group-title="CANALES 24/7",24 HORAS | BOB ESPONJA op2
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23893.m3u8
+
+#EXTINF:-1 tvg-id="24 HORAS | UNIVERSO MOVIES TARANTINO" tvg-name="24 HORAS | BREAKING BAD" tvg-logo="" group-title="CANALES 24/7",24 HORAS | BREAKING BAD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23930.m3u8
+
+#EXTINF:-1 tvg-id="24 HORAS | UNIVERSO MOVIES TARANTINO" tvg-name="24 HORAS | CANDY CANDY" tvg-logo="" group-title="CANALES 24/7",24 HORAS | CANDY CANDY
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/25784.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | CANTINFLAS" tvg-logo="" group-title="CANALES 24/7",24 HORAS | CANTINFLAS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23817.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | CANTINFLAS op2" tvg-logo="" group-title="CANALES 24/7",24 HORAS | CANTINFLAS op2
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23882.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | CHAPULIN COLORADO" tvg-logo="" group-title="CANALES 24/7",24 HORAS | CHAPULIN COLORADO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23849.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | CHAPULIN COLORADO ANIMADO" tvg-logo="" group-title="CANALES 24/7",24 HORAS | CHAPULIN COLORADO ANIMADO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23892.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | CHESPIRITO" tvg-logo="" group-title="CANALES 24/7",24 HORAS | CHESPIRITO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23818.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | CHESPIRITO" tvg-logo="" group-title="CANALES 24/7",24 HORAS | CHESPIRITO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23818.m3u8#EXTINF:-1 tvg-id="24 HORAS | UNIVERSO MOVIES TARANTINO" tvg-name="24 HORAS | CORAJE EL PERRO COBARDE" tvg-logo="" group-title="CANALES 24/7",24 HORAS | CORAJE EL PERRO COBARDE
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23819.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | CORAJE EL PERRO COBARDE op2" tvg-logo="" group-title="CANALES 24/7",24 HORAS | CORAJE EL PERRO COBARDE op2
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23879.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | DANIEL EL TRAVIESO" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DANIEL EL TRAVIESO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23855.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | DICK TRACY" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DICK TRACY
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23877.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | DINOSAURIOS" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DINOSAURIOS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23820.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | DIGIMON ADVENTURE" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DIGIMON ADVENTURE
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23907.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | DON GATO Y SU PANDILLA" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DON GATO Y SU PANDILLA
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23876.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | DRAGON BALL" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DRAGON BALL
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23842.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Prime Accion" tvg-name="24 HORAS | DBZ Saga de los Saiyajin" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DBZ Saga de los Saiyajin
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/28560.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Prime Accion" tvg-name="24 HORAS | DBZ Saga De Namekusei" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Namekusei
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/28911.m3u8http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/28911.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Prime Accion" tvg-name="24 HORAS | DBZ Saga De Freezer" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Freezer
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/28912.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Prime Comedia" tvg-name="24 HORAS | DBZ Saga De Garlick Junior" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Garlick Junior
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/29040.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Prime Accion" tvg-name="24 HORAS | DBZ Saga De Los Androides" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Los Androides
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/29042.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Prime Accion" tvg-name="24 HORAS | DBZ Saga De Cell" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DBZ Saga De Cell
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/29063.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Prime Accion" tvg-name="24 HORAS | DBZ Saga Del Torneo Del Otro Mundo y Saiyaman" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DBZ Saga Del Torneo Del Otro Mundo y Saiyaman
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/29064.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Prime Accion" tvg-name="24 HORAS | DBZ Saga de Babidi y Majin Bu" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DBZ Saga de Babidi y Majin Bu
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/29065.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Prime Infantiles" tvg-name="24 HORAS | DBZ Saga de La Fusion y Kid Bu" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DBZ Saga de La Fusion y Kid Bu
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/29066.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | DRAGON BALL GT" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DRAGON BALL GT
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23906.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | DRAGON BALL GT | op2" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DRAGON BALL GT | op2
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23841.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | DRAGON BALL SUPER" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DRAGON BALL SUPER
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23905.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | DRAGON BALL Z" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DRAGON BALL Z
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23822.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | DUCK DODGERS" tvg-logo="" group-title="CANALES 24/7",24 HORAS | DUCK DODGERS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23904.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | EL CHAVO DEL 8" tvg-logo="" group-title="CANALES 24/7",24 HORAS | EL CHAVO DEL 8
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23850.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | EL CONDE PATULA" tvg-logo="" group-title="CANALES 24/7",24 HORAS | EL CONDE PATULA
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23878.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | EL ESPECTACULAR HOMBRE ARAÑA" tvg-logo="" group-title="CANALES 24/7",24 HORAS | EL ESPECTACULAR HOMBRE ARAÑA
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23895.m3u8
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23895.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | EL PAJARO LOCO" tvg-logo="" group-title="CANALES 24/7",24 HORAS | EL PAJARO LOCO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23824.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | EL PRINCIPE DEL RAP" tvg-logo="" group-title="CANALES 24/7",24 HORAS | EL PRINCIPE DEL RAP
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23825.m3u8
+#EXTINF:-1 tvg-id="24 HORAS | UNIVERSO MOVIES TARANTINO" tvg-name="24 HORAS | EL SEÑOR DE LOS CIELOS" tvg-logo="" group-title="CANALES 24/7",24 HORAS | EL SEÑOR DE LOS CIELOS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/25803.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | EL SHOW DE LA PEQUEÑA LU LU" tvg-logo="" group-title="CANALES 24/7",24 HORAS | EL SHOW DE LA PEQUEÑA LU LU
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23875.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | EL SHOW DE LOS LOONEY TUNES" tvg-logo="" group-title="CANALES 24/7",24 HORAS | EL SHOW DE LOS LOONEY TUNES
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23903.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | FAMILY GUY" tvg-logo="" group-title="CANALES 24/7",24 HORAS | FAMILY GUY
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23844.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | FENOMENOIDE" tvg-logo="" group-title="CANALES 24/7",24 HORAS | FENOMENOIDE
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23874.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Prime Accion" tvg-name="24 HORAS | FIESTAMIX 1" tvg-logo="" group-title="CANALES 24/7",24 HORAS | FIESTAMIX 1
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/28909.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Prime Accion" tvg-name="24 HORAS | FIESTAMIX 2" tvg-logo="" group-title="CANALES 24/7",24 HORAS | FIESTAMIX 2
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/28910.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Prime Accion" tvg-name="24 HORAS | FIESTAMIX 3" tvg-logo="" group-title="CANALES 24/7",24 HORAS | FIESTAMIX 3
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/29041.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | GAMES OF THRONES" tvg-logo="" group-title="CANALES 24/7",24 HORAS | GAMES OF THRONES
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23843.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | GARFIELD Y SUS AMIGOS" tvg-logo="" group-title="CANALES 24/7",24 HORAS | GARFIELD Y SUS AMIGOS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23873.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | GASPARIN" tvg-logo="" group-title="CANALES 24/7",24 HORAS | GASPARIN
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23881.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | GRAVITY FALLS" tvg-logo="" group-title="CANALES 24/7",24 HORAS | GRAVITY FALLS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23891.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | HEY ARNOLD" tvg-logo="" group-title="CANALES 24/7",24 HORAS | HEY ARNOLD
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23823.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | HI-MAN" tvg-logo="" group-title="CANALES 24/7",24 HORAS | HI-MAN
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23858.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | INFANTILES" tvg-logo="" group-title="CANALES 24/7",24 HORAS | INFANTILES
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23831.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | IRON MAN" tvg-logo="" group-title="CANALES 24/7",24 HORAS | IRON MAN
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23872.m3u8
+#EXTINF:-1 tvg-id="24 HORAS | UNIVERSO MOVIES TARANTINO" tvg-name="24 HORAS | LA DOCTORA JUGUETE" tvg-logo="" group-title="CANALES 24/7",24 HORAS | LA DOCTORA JUGUETE
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23954.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | LA LEY DE MILO MURPHY" tvg-logo="" group-title="CANALES 24/7",24 HORAS | LA LEY DE MILO MURPHY
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23890.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | LA PANTERA ROSA" tvg-logo="" group-title="CANALES 24/7",24 HORAS | LA PANTERA ROSA
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23871.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | LAS NUEVAS AVENTURAS DE HI-MAN" tvg-logo="" group-title="CANALES 24/7",24 HORAS | LAS NUEVAS AVENTURAS DE HI-MAN
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23857.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | LOONEY TUNES PLATINUM COLLECTION" tvg-logo="" group-title="CANALES 24/7",24 HORAS | LOONEY TUNES PLATINUM COLLECTION
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23853.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | LOS CABALLEROS DEL SODIACO" tvg-logo="" group-title="CANALES 24/7",24 HORAS | LOS CABALLEROS DEL SODIACO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23901.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | LOS PICAPIEDRAS" tvg-logo="" group-title="CANALES 24/7",24 HORAS | LOS PICAPIEDRAS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23828.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | LOS PICAPIEDRAS op2" tvg-logo="" group-title="CANALES 24/7",24 HORAS | LOS PICAPIEDRAS op2
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23870.m3u8
+#EXTINF:-1 tvg-id="24 Horas | El CHAVO DEL 8" tvg-name="24 HORAS | LOS SUPERSONICOS" tvg-logo="https://assets.show.news/__export/1593292866826/sites/debate/img/2020/06/27/supersonicos_crop1593292834586.png_943222218.png" group-title="CANALES 24/7",24 HORAS | LOS SUPERSONICOS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/30248.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | LOS SIMPSONS" tvg-logo="" group-title="CANALES 24/7",24 HORAS | LOS SIMPSONS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23829.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | MALCOLM" tvg-logo="" group-title="CANALES 24/7",24 HORAS | MALCOLM
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23900.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | MEGAMAN" tvg-logo="" group-title="CANALES 24/7",24 HORAS | MEGAMAN
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23899.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | MI BELLA GENIO" tvg-logo="" group-title="CANALES 24/7",24 HORAS | MI BELLA GENIO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23898.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | MIRACULOUS LAS AVENTURAS DE LADYBUG" tvg-logo="" group-title="CANALES 24/7",24 HORAS | MIRACULOUS LAS AVENTURAS DE LADYBUG
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23889.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | NARUTO" tvg-logo="" group-title="CANALES 24/7",24 HORAS | NARUTO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23827.m3u8
+#EXTINF:-1 tvg-id="24 HORAS | UNIVERSO MOVIES TARANTINO" tvg-name="24 HORAS | NARUTO SHIPPUDEN" tvg-logo="" group-title="CANALES 24/7",24 HORAS | NARUTO SHIPPUDEN
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23937.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | ONE PUNCH MAN" tvg-logo="" group-title="CANALES 24/7",24 HORAS | ONE PUNCH MAN
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23830.m3u8
+#EXTINF:-1 tvg-id="24 Horas | El CHAVO DEL 8" tvg-name="24 HORAS | HALCONES GALACTICOS" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/3/38/Galacticos.jpg/revision/latest?cb=20100624045957&path-prefix=es" group-title="CANALES 24/7",24 HORAS | HALCONES GALACTICOS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/30249.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | PADRE DE FAMILIA TEMPORADA 1-9" tvg-logo="" group-title="CANALES 24/7",24 HORAS | PADRE DE FAMILIA TEMPORADA 1-9
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23888.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | PADRE DE FAMILIA TEMPORADA 10-14" tvg-logo="" group-title="CANALES 24/7",24 HORAS | PADRE DE FAMILIA TEMPORADA 10-14
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23887.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | PATO AVENTURAS" tvg-logo="" group-title="CANALES 24/7",24 HORAS | PATO AVENTURAS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23886.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | PATO AVENTURAS op2" tvg-logo="" group-title="CANALES 24/7",24 HORAS | PATO AVENTURAS op2
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23894.m3u8
+#EXTINF:-1 tvg-id="24 Horas | El CHAVO DEL 8" tvg-name="24 HORAS | PAW PATROL" tvg-logo="https://i.ebayimg.com/images/g/st0AAOSwc2tZc6WR/s-l400.jpg" group-title="CANALES 24/7",24 HORAS | PAW PATROL
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/30222.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | PEPPA PIG" tvg-logo="" group-title="CANALES 24/7",24 HORAS | PEPPA PIG
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23852.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | PHINEAS Y FERB" tvg-logo="" group-title="CANALES 24/7",24 HORAS | PHINEAS Y FERB
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23885.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | PINKI Y CEREBRO" tvg-logo="" group-title="CANALES 24/7",24 HORAS | PINKI Y CEREBRO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23860.m3u8
+#EXTINF:-1 tvg-id="24 HORAS | UNIVERSO MOVIES TARANTINO" tvg-name="24 HORAS | PINKY Y CEREBRO" tvg-logo="https://blogbibliotecacid.files.wordpress.com/2017/12/pinkyandthebrain.jpg?w=700" group-title="CANALES 24/7",24 HORAS | PINKY Y CEREBRO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23927.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | POKEMON" tvg-logo="" group-title="CANALES 24/7",24 HORAS | POKEMON
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23832.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | QUE HAY DE NUEVO SCOOBY DOO" tvg-logo="" group-title="CANALES 24/7",24 HORAS | QUE HAY DE NUEVO SCOOBY DOO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23911.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | RANMA 1/2" tvg-logo="" group-title="CANALES 24/7",24 HORAS | RANMA 1/2
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23912.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | RANMA 1/2 op2" tvg-logo="" group-title="CANALES 24/7",24 HORAS | RANMA 1/2 op2
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23845.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | RICOCHET RABBIT Y DROOP A LONG" tvg-logo="" group-title="CANALES 24/7",24 HORAS | RICOCHET RABBIT Y DROOP A LONG
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23861.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | ROBOTECH" tvg-logo="" group-title="CANALES 24/7",24 HORAS | ROBOTECH
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23867.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | SAKURA" tvg-logo="" group-title="CANALES 24/7",24 HORAS | SAKURA
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23847.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | SAMURAI X" tvg-logo="" group-title="CANALES 24/7",24 HORAS | SAMURAI X
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23833.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | SCOOBY DOO" tvg-logo="" group-title="CANALES 24/7",24 HORAS | SCOOBY DOO
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23834.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | SMALLVILLE" tvg-logo="" group-title="CANALES 24/7",24 HORAS | SMALLVILLE
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23835.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | SONIC Y SU BANDA" tvg-logo="" group-title="CANALES 24/7",24 HORAS | SONIC Y SU BANDA
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23865.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | SOUTH PARK" tvg-logo="" group-title="CANALES 24/7",24 HORAS | SOUTH PARK
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23836.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | SOUTH PARK op2" tvg-logo="" group-title="CANALES 24/7",24 HORAS | SOUTH PARK op2
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23883.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | SOUTH PARK op3" tvg-logo="" group-title="CANALES 24/7",24 HORAS | SOUTH PARK op3
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | STAR TREK" tvg-logo="" group-title="CANALES 24/7",24 HORAS | STAR TREK
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23864.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | SUPER CAMPEONES" tvg-logo="" group-title="CANALES 24/7",24 HORAS | SUPER CAMPEONES
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23837.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | THE BIG BANG THEORY" tvg-logo="" group-title="CANALES 24/7",24 HORAS | THE BIG BANG THEORY
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23838.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | THE BIG BANG THEORY TEMPORADA 1-6" tvg-logo="" group-title="CANALES 24/7",24 HORAS | THE BIG BANG THEORY TEMPORADA 1-6
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23897.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | THE BIG BANG THEORY TEMPORADA 7-12" tvg-logo="" group-title="CANALES 24/7",24 HORAS | THE BIG BANG THEORY TEMPORADA 7-12
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23896.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | THUNDERCATS" tvg-logo="" group-title="CANALES 24/7",24 HORAS | THUNDERCATS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23863.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | TOM Y JERRY" tvg-logo="" group-title="CANALES 24/7",24 HORAS | TOM Y JERRY
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23839.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | TOM Y JERRY | op2" tvg-logo="" group-title="CANALES 24/7",24 HORAS | TOM Y JERRY | op2
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23856.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | TRANSFORMERS" tvg-logo="" group-title="CANALES 24/7",24 HORAS | TRANSFORMERS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23859.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | TWO AND A HALF MEN" tvg-logo="" group-title="CANALES 24/7",24 HORAS | TWO AND A HALF MEN
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23846.m3u8
+#EXTINF:-1 tvg-id="24 HORAS | UNIVERSO MOVIES TARANTINO" tvg-name="24 HORAS | UFC PPV" tvg-logo="http://mma.uno/wp-content/uploads/2016/02/UFC-LOGO.png" group-title="CANALES 24/7",24 HORAS | UFC PPV
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/25806.m3u8
+#EXTINF:-1 tvg-id="24 HORAS | UNIVERSO MOVIES TARANTINO" tvg-name="24 HORAS | UN SHOW MAS" tvg-logo="" group-title="CANALES 24/7",24 HORAS | UN SHOW MAS
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23938.m3u8
+#EXTINF:-1 tvg-id="24 HORAS | UNIVERSO MOVIES TARANTINO" tvg-name="24 HORAS | UNIVERSO DC" tvg-logo="" group-title="CANALES 24/7",24 HORAS | UNIVERSO DC
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23941.m3u8
+#EXTINF:-1 tvg-id="24 HORAS | UNIVERSO MOVIES TARANTINO" tvg-name="24 HORAS | UNIVERSO HARRY POTTER" tvg-logo="" group-title="CANALES 24/7",24 HORAS | UNIVERSO HARRY POTTER
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23947.m3u8
+#EXTINF:-1 tvg-id="24 Horas | El CHAVO DEL 8" tvg-name="24 HORAS | UNIVERSO PIXAR" tvg-logo="https://3.bp.blogspot.com/_vApvcGhPPsQ/SzW3D1Ds41I/AAAAAAAAAaQ/GR1gd_ak8bg/s1600/PixarWalle.jpg" group-title="CANALES 24/7",24 HORAS | UNIVERSO PIXAR
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/30266.m3u8
+#EXTINF:-1 tvg-id="24 HORAS | UNIVERSO MOVIES TARANTINO" tvg-name="24 HORAS | UNIVERSO MARVEL" tvg-logo="" group-title="CANALES 24/7",24 HORAS | UNIVERSO MARVEL
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23939.m3u8
+#EXTINF:-1 tvg-id="24 HORAS | UNIVERSO MOVIES TARANTINO" tvg-name="24 HORAS | UNIVERSO SCARY MOVIE" tvg-logo="" group-title="CANALES 24/7",24 HORAS | UNIVERSO SCARY MOVIE
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23950.m3u8
+#EXTINF:-1 tvg-id="24 HORAS | UNIVERSO MOVIES TARANTINO" tvg-name="24 HORAS | WWE PPV" tvg-logo="" group-title="CANALES 24/7",24 HORAS | WWE PPV
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/25807.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | XMEN" tvg-logo="" group-title="CANALES 24/7",24 HORAS | XMEN
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23862.m3u8
+#EXTINF:-1 tvg-id="24 Horas | Casado con Hijos" tvg-name="24 HORAS | YU-GI-OH" tvg-logo="" group-title="CANALES 24/7",24 HORAS | YU-GI-OH
+http://xdgo.live:8080/live/JJaco503/97tyf7vbBH/23840.m3u8
+
+
+
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/HXYrckT/AZCinema.png" group-title="TV Clasica",Az Cinema
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 #EXTINF:0 tvg-logo="https://images.pluto.TV/channels/5e6690befbdf780007f78158/featuredImage.jpg?w=256" group-title="TV Clasica",Nuestra Vision
