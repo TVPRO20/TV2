@@ -1,28 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24/7  CAILLOU" tvg-logo="" group-title="24/7",24/7  CAILLOU
-http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/3
-#EXTINF:-1 tvg-id="" tvg-name="24/7  CORAJE EL PERRO COBARDE" tvg-logo="" group-title="24/7",24/7  CORAJE EL PERRO COBARDE
-http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/4
-#EXTINF:-1 tvg-id="" tvg-name="24/7  CUENTRO GREEM" tvg-logo="" group-title="24/7",24/7  CUENTRO GREEM
-http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/5
-#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS 1991" tvg-logo="" group-title="24/7",24/7  DINOSAURIOS 1991
-http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/6
-#EXTINF:-1 tvg-id="" tvg-name="24/7  DRAGON BALL 1984" tvg-logo="" group-title="24/7",24/7  DRAGON BALL 1984
-http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/7
-#EXTINF:-1 tvg-id="" tvg-name="24/7  LOS SIMPSON" tvg-logo="" group-title="24/7",24/7  LOS SIMPSON
-http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/8
-#EXTINF:-1 tvg-id="" tvg-name="24/7  SOUTH PARK" tvg-logo="" group-title="24/7",24/7  SOUTH PARK
-http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/9
-#EXTINF:-1 tvg-id="" tvg-name="24/7  THE WALKING DEAD" tvg-logo="" group-title="24/7",24/7  THE WALKING DEAD
-http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/10
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
-http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/11
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BARNY Y SUS AMIGOS" tvg-logo="" group-title="24/7",24/7 BARNY Y SUS AMIGOS
-http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/13
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BATMAN 1966 RETRO" tvg-logo="" group-title="24/7",24/7 BATMAN 1966 RETRO
-http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/14
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="" group-title="24/7",24/7 BOB ESPONJA
-http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/16
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 BREAKING  BAD" tvg-logo="" group-title="24/7",24/7 BREAKING  BAD
 http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/17
 #EXTINF:-1 tvg-id="" tvg-name="24/7 CABALLEROS DEL ZODIACO" tvg-logo="" group-title="24/7",24/7 CABALLEROS DEL ZODIACO
@@ -323,3 +299,11 @@ http://5.9.30.198:2086/6848486884188684848sd688418868484868841886848486884188684
 http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/354
 #EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Universal TV" tvg-logo="" group-title="SERIES",MrZutv.net:Universal TV
 http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/355
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Venus" tvg-logo="" group-title="XXX",MrZutv.net:Venus
+http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/356
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:VH1 Europe" tvg-logo="" group-title="MUSICA",MrZutv.net:VH1 Europe
+http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/357
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Video Rola" tvg-logo="" group-title="MUSICA",MrZutv.net:Video Rola
+http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/358
+#EXTINF:-1 tvg-id="" tvg-name="MrZutv.net:Warner Channel" tvg-logo="" group-title="SERIES",MrZutv.net:Warner Channel
+http://5.9.30.198:2086/6848486884188684848sd68841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergaffsghsgfrergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/359
